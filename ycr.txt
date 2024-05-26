@@ -1,0 +1,7202 @@
+You Can(not) Re:Turn
+1.0
+
+normal
+155/293
+4
+common
+Let Loose
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Creatures you control get +2/+0 until end of turn. Non-Citizen creatures you control gain trample until end of turn.
+<i>&#8220;You&#8217;re strong. Looks like we don&#8217;t need to hold back anymore!&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+123/293
+3
+rare
+Repurpose Flesh
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, pay X life.<br>///br///Return target creature with a cost of X or less from a graveyard to the battlefield tapped under your control. That creature is a black Horror in addition to its other colors and types.
+
+moni158
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+112/293
+2
+uncommon
+Indulge Hunger
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, sacrifice a nonartifact creature.<br>///br///Put three +1/+1 counters on target non-Human creature you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+52/293
+2
+common
+Conceal Nature
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///As long as the enchanted creature is tapped, it&#8217;s a Human Citizen with base power and toughness 1/1 and can&#8217;t be blocked.
+<i>&#8220;It&#8217;s not just another stolen face. I put time and effort in this disguise.&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+30/293
+1
+common
+Play Hero
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Target creature you control gains protection from the color of your choice until end of turn. <i>(It can&#8217;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)</i><br>///br///If the target is a Citizen, put a +1/+1 counter on it.
+
+xNadechi
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+3/15
+0
+common
+Human Citizen 1
+white
+
+Token Creature — Human Citizen 
+1
+1
+
+
+Pancakegami
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+4/15
+0
+common
+Human Citizen 2
+white
+
+Token Creature — Human Citizen 
+1
+1
+
+
+ProdigyBombay
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+199/293
+2
+uncommon
+Kitsune Protegee
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fox 
+2
+1
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Kitsune Protegee enters the battlefield, if it is popular, create a 2/2 green Fox creature token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+7/15
+0
+common
+Fox
+green
+
+Token Creature — Fox 
+2
+2
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+114/293
+1
+uncommon
+Innocent Casualty
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Destroy target Citizen creature.
+<i>After the Crossover, you were either special or defenseless.</i>
+Vadim Baydashnikov
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+228/293
+6
+mythic rare
+Amio Sua, Seeker of Strength
+white, red, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Warrior 
+3
+5
+Flying, double strike<br>///br///Tap X untapped creatures you control: Amio Sua, Seeker of Strength deals X damage to target creature.<br>///br///When Amio Sua, Seeker of Strength dies, return it to the battlefield transformed under your control.
+
+
+The World Mourns
+white
+
+Legendary Enchantment
+
+
+Vanishing 2 <i>(This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i><br>///br///Creatures can&#8217;t attack.
+<i>The world fell silent, having lost one of its mightiest heroes.</i>
+
+===========
+normal
+15/293
+2
+common
+Glorious Charge
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Creatures you control get +1/+1 until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+47/293
+1
+uncommon
+Back to Back
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. If you control both creatures at the end of turn, scry 2.
+
+Tomasz Chistowski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+7/293
+2
+common
+Compassionate Medium
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+1
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Compassionate Medium enters the battlefield, if it is popular, exile a creature card from a graveyard. You gain life equal to its mana value.
+
+Genzoman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+148/293
+4
+uncommon
+Elixir Charmer
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Wizard 
+3
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Elixir Charmer enters the battlefield, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If Elixir Charmer is popular, sacrifice it at the end of turn.
+
+Yuchenghong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+259/293
+2
+common
+Deep Web Dealer
+blue, black, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-UB.png' alt='U/B' width='16' height='16'>
+Creature — Human Citizen Rogue 
+1
+2
+When Deep Web Dealer enters the battlefield, scry 2. Then if <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> was spent to cast it, target creature segregates 1. <i>(Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+32/293
+5
+common
+Police Blockade
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+3
+5
+Police Blockade can block an additional creature each combat.
+
+starhackt
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+265/293
+1
+common
+Street Artist
+white, green, hybrid, horizontal
+<img src='magic-mana-small-GW.png' alt='G/W' width='16' height='16'>
+Creature — Human Citizen 
+0
+1
+When Street Artist enters the battlefield, if <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> was spent to cast it, you gain 2 life.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+super_furet
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+91/293
+4
+common
+Ageless Duelist
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Warrior 
+4
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///As long as Ageless Duelist is popular, it has protection from the color of your choice.
+
+wizyakuza
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+56/293
+2
+common
+Fridge Fairy
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Faerie 
+2
+1
+Flying<br>///br///Fridge Fairy enters the battlefield tapped unless you control a Clue.
+<i>&#8220;I was hot, it was cold... I thought it was a good idea.&#8221;</i>
+Natoriumu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+4/5
+4
+special
+Limits of Solidarity
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+<i>A brittle alliance can never be mended. It can only break.</i>
+wizyakuza
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+198/293
+4
+common
+Kitsune Emissary
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fox Advisor 
+3
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Kitsune Emissary enters the battlefield, target creature gets +2/+2 until end of turn. If Kitsune Emissary is popular, put two +1/+1 counters on target creature instead.
+
+Fireeaglespirit
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+261/293
+2
+common
+Nerdy Student
+blue, green, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-GU.png' alt='G/U' width='16' height='16'>
+Creature — Human Citizen 
+1
+1
+When Nerdy Student enters the battlefield, if <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> was spent to cast it, untap target creature.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+262/293
+1
+common
+Passionate Otaku
+white, red, hybrid, horizontal
+<img src='magic-mana-small-RW.png' alt='R/W' width='16' height='16'>
+Creature — Human Citizen 
+1
+1
+Passionate Otaku counts as two Citizens when it becomes tapped to make a spell popular.
+
+Basabeo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+20/293
+2
+common
+I’m Your Biggest Fan!
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +1/+1.<br>///br///As long as enchanted creature is a Citizen, it counts as two Citizens when it becomes tapped to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+218/293
+3
+common
+Rooftop Sentinel
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Warrior 
+2
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Reach<br>///br///When Rooftop Sentinel enters the battlefield, if it is popular, put a +1/+1 counter on it.
+
+Wang Song
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+263/293
+2
+common
+Reckless Journalist
+blue, red, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-UR.png' alt='U/R' width='16' height='16'>
+Creature — Human Citizen 
+1
+3
+Whenever Reckless Journalist becomes tapped to make a spell popular, you may pay <span class="symbol"><img src='magic-mana-small-UR.png' alt='U/R' width='16' height='16'></span>. If you do, draw a card.
+<i>&#8220;We&#8217;re live at Pismo Beach, where Amio Sua is fighting a Kaiju as we speak!&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+268/293
+2
+common
+Unscrupulous Politician
+white, black, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-WB.png' alt='W/B' width='16' height='16'>
+Creature — Human Citizen Advisor 
+2
+2
+Whenever Unscrupulous Politician becomes tapped to make a spell popular, create a 1/1 white Human Citizen creature token.<br>///br///<span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Target player discards a card.
+
+Roberto Robert
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+264/293
+2
+common
+Stern Policeman
+white, blue, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-WU.png' alt='W/U' width='16' height='16'>
+Creature — Human Citizen Soldier 
+2
+2
+When Stern Policeman enters the battlefield, if <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> was spent to cast it, tap target creature. It doesn&#8217;t untap during its controller&#8217;s next untap step.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Stern Policeman gains vigilance until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+267/293
+2
+common
+Unruly Rioter
+black, red, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-BR.png' alt='B/R' width='16' height='16'>
+Creature — Human Citizen 
+2
+2
+Whenever you tap Unruly Rioter to make a spell popular, it deals 1 damage to any target.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Unruly Rioter gains menace until the end of turn.
+
+Brendan Hoffman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+266/293
+2
+common
+Underground Helper
+black, green, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-BG.png' alt='B/G' width='16' height='16'>
+Creature — Human Citizen Rogue 
+2
+1
+Whenever Undergroud Helper becomes tapped to make a spell popular, mill three cards. Put a permanent card from among the cards milled this way into your hand.
+<i>&#8220;Sure, I can find you a shelter. But this ain&#8217;t gonna be free.&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+260/293
+2
+common
+Fictional Rights Activist
+red, green, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-RG.png' alt='R/G' width='16' height='16'>
+Creature — Human Citizen 
+2
+1
+When Fictional Rights Activist enters the battlefield, if <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> was spent to cast it, it gains haste until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Put a +1/+1 counter on target creature.
+<i>&#8220;Fictionals are people too, and should be treated as such!&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+5/15
+0
+common
+Human Citizen 3
+white
+
+Token Creature — Human Citizen 
+1
+1
+
+
+xNadechi
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+6/15
+0
+common
+Demon
+black
+
+Token Creature — Demon 
+5
+5
+Flying
+
+PiKA
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+97/293
+2
+rare
+Crazy in Love
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Assassin 
+2
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Crazy in Love goes nekketsu, it deals X damage to target creature, where X is its power.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, pay 2 life: Put a +1/+1 counter on Crazy in Love.
+
+Shyua
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+251/293
+3
+rare
+Scarlet Mist
+black, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Enchantment
+
+
+Black creatures you control gain lifelink.<br>///br///Red creatures you control gain haste.<br>///br///Citizens get -1/-0.
+
+Manpuku Jinja
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+9/293
+4
+uncommon
+Digital Idol
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Illusion Performer 
+2
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Digital Idol enters the battlefield, create a 1/1 white Human Citizen creature token. If it is popular, create two of those tokens instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+45/293
+3
+uncommon
+Whitewing Princess
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Samurai 
+3
+1
+Flying<br>///br///<i>Underdog &#8212; </i>Whenever Whitewing Princess attacks, if defending player controls a creature with power greater than this card&#8217;s, Whitewing Princess gains indestructible until end of turn.
+
+Mayo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/5
+2
+special
+Awakened Awareness
+blue
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant artifact or creature<br>///br///When Awakened Awareness enters the battlefield, put X +1/+1 counters on enchanted permanent.<br>///br///As long as enchanted permanent is a creature, it has base power and toughness 1/1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+66/293
+2
+common
+Moment of Weakness
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Target creature gets -4/-0 until end of turn.<br>///br///Investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+SEGA
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+29/293
+2
+common
+Photo Shoot
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Create two 1/1 white Human Citizen creature tokens.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+164/293
+1
+common
+Provoke
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Target creature can&#8217;t block this turn.<br>///br///<b>&#8226; </b>Target creature blocks this turn if able.<br>///br///Entwine <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(Choose both if you pay the entwine cost.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+154/293
+2
+common
+Juvenile Skirmisher
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Soldier 
+3
+1
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Juvenile Skirmisher has haste as long as it is popular.
+<i>&#8220;So young yet so eager to die. What a waste of life.&#8221;<br>///br///&#8212;Heinrich Wilbretch</i>
+Yoko Maturica
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+38/293
+4
+common
+Six-pack Alpha
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Beast Warrior 
+3
+3
+<i>Underdog &#8212;</i> Whenever Six-pack Alpha attacks, if defending player controls a creature with power greater than this card&#8217;s, put a +1/+1 counter on Six-pack Alpha.
+
+fliegen80s
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+46/293
+2
+mythic rare
+Argo, Street Snitch
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Cat Citizen 
+2
+2
+Whenever Argo, Street Snitch becomes tapped to make a spell popular or deals combat damage to a player, scry X, where X is its power.
+
+xNadechi
+Argo, Alley Cat
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Cat Rogue 
+2
+2
+Hexproof<br>///br///Whenever Argo, Alley Cat deals combat damage to a player, put a +1/+1 counter on target creature and investigate.
+
+mbel033
+===========
+double
+127/293
+3
+mythic rare
+Sophie, Bloody Blondie
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Horror 
+2
+2
+<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Sophie, Bloody Blondie gets +1/+1 until the end of turn. If its power is 12 or greater, transform Sophie, Bloody Blondie.
+<i>&#8220;I&#8217;ve been sober for two entire weeks. Don&#8217;t you think I deserve a treat?&#8221;</i>
+Heisedebao
+Sophie, Out of Control
+black
+
+Legendary Creature — Horror 
+12
+12
+Indestructible, trample, protection from Citizens
+<i>&#8220;This is precisely why I don&#8217;t let her touch me.&#8221;<br>///br///&#8212;Argo Valae</i>
+Ramirez de Souza
+===========
+normal
+94/293
+3
+common
+Campy Villain
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Skeleton Warrior 
+2
+3
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Campy Villain goes nekketsu, you may discard a card. If you do, return Campy Villain to its owner&#8217;s hand.
+
+Hattonslayden
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+287/293
+0
+uncommon
+Mystical Torii
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Exile target non-Citizen creature you control, then return it to the battlefield under your control.
+<i>Ancient torii gates can affect a Fictional&#8217;s connection to reality, proving that the world may not be completely devoid of magic.</i>
+Omar Ero
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+160/293
+5
+uncommon
+Missile Barrage
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Missile Barrage costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less if you control an artifact creature.<br>///br///Missile Barrage deals 4 damage divided as you choose among any number of targets.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+108/293
+4
+rare
+Gruesome End
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+All creatures get -X/-X until end of turn, where X is the number of creatures on the battlefield. Each player loses 1 life for each Citizen destroyed this way.
+
+xNadechi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+107/293
+3
+common
+Grinning Lady
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit Assassin 
+3
+2
+Whenever another creature you control dies, Grinning Lady may segregate 1. <i>(Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+David Gaillet
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+85/293
+2
+rare
+Useless Goddess
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — God Cleric 
+0
+5
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Defender<br>///br///As long as Useless Goddess is popular, blue noncreature spells you cast cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast and other blue creatures you control gain +1/+1.
+
+Kurosugarfree
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+70/293
+3
+common
+Outsmart
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target noncreature spell.<br>///br///Investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+<i>&#8220;You would be less predictable if you stopped yelling the name of your attacks.&#8221;</i>
+Kevin Zamir Goeke
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+48/293
+2
+common
+Big Watery Eyes
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Tap target creature.<br>///br///Draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+40/293
+3
+rare
+Starry Savior
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Faerie Warrior 
+2
+3
+Flash, lifelink<br>///br///When Starry Savior enters the battlefield, attacking creatures you control gain lifelink until end of turn.
+
+Sakkuhana
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+180/293
+4
+common
+Warmonger Prince
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Noble 
+4
+2
+If mana from a Treasure was spent to cast this spell, put a +1/+1 counter on Warmonger Prince.<br>///br///Warmonger Prince has trample as long as it has a +1/+1 counter on it.
+
+Kusuabieru
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+31/293
+1
+mythic rare
+Plume, Wannabe Heroine
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Angel 
+1
+1
+Flying<br>///br///Whenever you make a spell popular, put a +1/+1 counter on Plume, Wannabe Heroine and untap it.
+
+xNadechi
+Plume, Taking a Stand
+white, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Angel 
+3
+3
+Flying, vigilance, haste<br>///br///<i>Underdog &#8212;</i> Whenever Plume, Taking a Stand attacks, if defending player controls a creature with power greater than this card&#8217;s, other creatures you control get +1/+1 until end of turn.<br>///br///
+
+
+===========
+token
+13/15
+0
+common
+Treasure 1
+artifact
+
+Token Artifact — Treasure 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Add one mana of any color.
+
+Ali Rahman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/5
+2
+special
+Doom Blade
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Destroy target nonblack creature.
+<i>Despite gaining agency, Fictionals cannot always run from their destiny.</i>
+Philolita
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+110/293
+3
+mythic rare
+Heinrich, Pragmatic Leader
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Soldier 
+3
+3
+Whenever you sacrifice a permanent, target opponent loses 1 life and you draw a card.
+<i>&#8220;Whatever it takes to keep this senseless world from crushing us.&#8221;</i>
+
+Heinrich, Zealous Captain
+white, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Soldier 
+4
+4
+When Heinrich, Zealous Captain enters the battlefield, choose a number.<br>///br///Creatures you control gain protection against spells with mana value equal to the chosen number.
+
+
+===========
+normal
+151/293
+3
+common
+Handsome Freebooter
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Pirate 
+3
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Handsome Freebooter enters the battlefield, if it is popular, create a Treasure token.
+<i>&#8220;The loot sure looks different here. But you gotta love this added fame!&#8221;</i>
+Nooepkt
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+14/15
+0
+common
+Treasure 2
+artifact
+
+Token Artifact — Treasure 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Add one mana of any color.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+15/15
+0
+common
+Treasure 3
+artifact
+
+Token Artifact — Treasure 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Add one mana of any color.
+
+Yannick Castaing
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+138/293
+1
+common
+Barbecue Familiar
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+1
+1
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Barbecue Familiar gets +1/+0 and gains flying until end of turn.
+
+Sandara
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+195/293
+1
+mythic rare
+Imari, Blossoming Soul
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Human Druid 
+1
+2
+Popularity X <i>(You may tap X untapped Citizens you control when you cast this spell.)</i><br>///br///When Imari, Blossoming Soul enters the battlefield, if it is popular, put a +1/+1 counter on up to X target creatures.
+<i>&#8220;Please let me explore this world with you.<br>///br///I promise I won&#8217;t slow you down!&#8221;<br>///br///</i>
+
+Imari, Heart of Rot
+black, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Horror Druid 
+2
+4
+Deathtouch<br>///br///At the beginning of your upkeep, you may mill four cards. If you do, put a -1/-1 counter on all creatures target opponent control for each nonland permanent card milled this way.
+<i>Her gift twisted by a malignant influence, she now lives in a nightmare of perpetual rejection.<br>///br///</i>
+EmphasisMine
+===========
+normal
+258/293
+3
+mythic rare
+Zhisro, Naga Prophet
+multicolor
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Naga Wizard 
+3
+3
+If one or more tokens would be created under your control, put a prophecy counter on Zhisro, Naga Prophet.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove ten counters from a creature you control: Search your library for a card, put that card into your hand, then shuffle. You may cast it without paying its mana cost this turn.
+
+NINNIN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+134/293
+5
+common
+Vampire Sovereign
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire 
+3
+4
+Flying<br>///br///When Vampire Sovereign enters the battlefield, target opponent loses 3 life and you gain 3 life.
+
+Kir-Tat
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+187/293
+3
+uncommon
+Colossal Majesty
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.
+
+Ariduka55
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+59/293
+3
+rare
+Gifted Worker
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Artificer 
+2
+3
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, exile target artifact from your graveyard: Create a 1/1 colorless Thopter artifact creature token with flying.<br>///br///Tap an untapped Soldier you control: Transform Gifted Worker.
+
+
+Hierophant, Genius Rigger
+blue, artifact, horizontal
+
+Legendary Artifact Creature — Soldier 
+3
+3
+Thopters you control get +1/+1 and have &#8220;Whenever this creature deals combat damage to a player, draw a card&#8221;.
+<i>&#8220;They said my neural cloud was one in a million. Sometimes I wish I could go back to being nobody...&#8221;</i>
+ydh2101
+===========
+double
+152/293
+3
+mythic rare
+Hoffman, Aimless Anger
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Artificer 
+3
+2
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Hoffman, Aimless Anger goes nekketsu, it deals X damage divided as you choose among any number of targets, where X is the number of artifacts you control.<br>///br///
+
+Vargasni
+Hoffman, Reclusive Tech
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Artificer 
+3
+4
+<span class="symbol"><img src='magic-mana-small-UR.png' alt='U/R' width='16' height='16'></span>, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed creature&#8217;s mana value, put that card onto the battlefield, then shuffle. Activate only once each turn as a sorcery.
+<i>The best tinkerer you can find. If you find him.<br>///br///</i>
+
+===========
+token
+12/15
+0
+common
+Thopter
+artifact
+
+Token Artifact Creature — Thopter 
+1
+1
+Flying
+
+Alexandre Proulx Audy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+71/293
+2
+common
+Portal Rapture
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Return target creature to its owner&#8217;s hand.<br>///br///Investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/293
+6
+uncommon
+Angelic Observer
+white
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel Advisor 
+3
+3
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each Citizen you control.<br>///br///Flying
+
+Dopaprime
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+220/293
+5
+uncommon
+Take to the Streets
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Creatures you control get +2/+2 until end of turn. Citizens you control get an additional +1/+1 and gain vigilance until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+49/293
+2
+uncommon
+Careful Countermeasure
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice a Clue or pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.<br>///br///Counter target spell. Scry 2.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+179/293
+1
+uncommon
+Unlucky Witness
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Citizen 
+1
+1
+When Unlucky Witness dies, exile the top two cards of your library. Until your next end step, you may play one of those cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+178/293
+2
+common
+Uncanny Speed
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Target creature gets +3/+0 and gains haste until end of turn.
+
+Morgorth
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+26/293
+2
+rare
+New Transfer Student
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Citizen 
+1
+1
+When New Transfer Student enters the battlefield, create a 1/1 white Human Citizen creature token.<br>///br///Whenever you attach an aura to New Transfer Student, transform it.
+
+Shanwenyufan
+Noriko, Chosen by the Stars
+white
+
+Legendary Creature — Human Cleric 
+2
+2
+Flying, lifelink
+
+atdan
+===========
+normal
+238/293
+3
+rare
+How I Was Reincarnated Into...
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, sacrifice a nontoken creature.<br>///br///Create a token that&#8217;s a copy of target creature.
+<i>...the opponent&#8217;s most powerful legendary.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+34/293
+4
+uncommon
+Restrained by the Task Force
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Restrained by the Task Force enters the battlefield, exile target creature or planeswalker an opponent controls until Restrained by the Task Force leaves the battlefield.<br>///br///When Restrained by the Task Force enters the battlefield, create a 2/2 colorless Soldier creature token with vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+111/293
+5
+uncommon
+Heinrich’s Maneuver
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+When Heinrich&#8217;s Maneuver enters the battlefield, put two -1/-1 counters on target creature.<br>///br///Whenever a nontoken creature you control dies, create a 2/2 colorless Soldier creature token with vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+1/15
+0
+common
+Soldier 1
+colorless
+
+Token Creature — Soldier 
+2
+2
+Vigilance
+
+Hetza5721
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+83/293
+5
+common
+Totally Lost
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Put target nonland permanent on top of its owner&#8217;s library.
+<i>&#8220;This ain&#8217;t your neighborhood, lass.&#8221;</i>
+Tony Sart
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+82/293
+3
+common
+Stealth Mission
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Put two +1/+1 counters on target creature you control. That creature can&#8217;t be blocked this turn.
+
+xNadechi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+130/293
+3
+uncommon
+Street Samurai
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Human Samurai 
+3
+2
+Menace<br>///br///<i>Underdog &#8212;</i> Whenever Street Samurai attacks, if defending player controls a creature with power greater than this card&#8217;s, Street Samurai gains deathtouch until end of turn.
+
+Django Red
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+147/293
+2
+common
+Dragon-palm Adept
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon Monk 
+2
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)<br>///br///</i>When Dragon-palm Adept goes nekketsu, it deals 2 damage to any target.
+
+Ae-Rie
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+205/293
+3
+common
+Mutated Mantis
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Insect 
+2
+2
+Deathtouch<br>///br///When Mutated Mantis dies, target creature you control segregates 2. <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i>
+
+Richard Sashigane
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+194/293
+3
+uncommon
+Feline Ambusher
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat Rogue 
+1
+1
+Flash<br>///br///When Feline Ambusher enters the battlefield, move any number of +1/+1 counters from target creature you control onto it.
+
+cuboon
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+133/293
+4
+common
+Unrelenting Gunsel
+black, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Orc Soldier 
+3
+3
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Unrelenting Gunsel goes nekketsu, target opponent discards a card and loses 2 life.
+
+Django Red
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+115/293
+3
+common
+Murder
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Destroy target creature.
+<i>&#8220;The most heroic thing one can do is not giving into evil. We lost many bright souls to this planar madness...&#8221;<br>///br///&#8212;Krain</i>
+White Fox
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+57/293
+7
+rare
+Gargantuan Mermaid
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Kraken 
+7
+7
+Popularity 2 <i>(You may tap two untapped Citizens you control when you cast this spell.)</i><br>///br///When Gargantuan Mermaid enters the battlefield, return target creature to its owner&#8217;s hand. If it is popular, return all other creatures to their owners&#8217; hands.
+
+Cakeroll
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+235/293
+4
+uncommon
+Feral Escapee
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat 
+3
+3
+Haste, first strike<br>///br///Whenever a creature with base power 4 or greater enters the battlefield under you control, it gains haste until end of turn.
+
+Alexandre Mokhov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+247/293
+3
+uncommon
+Priestess of the Natural Cycle
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Spirit Cleric 
+2
+3
+Lifelink<br>///br///Whenever a creature you control becomes tapped to make a spell popular, put a +1/+1 counter on it.
+<i>She offered blessings to her new followers, despite them being more interested in her than in her teachings.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+241/293
+3
+rare
+Krain, Winged Peacekeeper
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Bird Soldier 
+2
+3
+Flying, vigilance<br>///br///Citizens you control have ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>. <i>(Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+67/293
+3
+common
+Moonlight Courtesan
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Spirit Wizard 
+2
+3
+Islandwalk<br>///br///Whenever you play a noncreature spell, Moonlight Courtesan may segregate 1. <i>(Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+Paeng
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+135/293
+2
+common
+Witch’s Whim
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Return target creature card from your graveyard to your hand.<br>///br///<b>&#8226; </b>Target creature segregates 2 <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i><br>///br///Entwine&#8212;Pay 2 life <i>(Choose both if you pay the entwine cost.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+208/293
+2
+rare
+Otherworldly Fury
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. If X is 4 or more, it also gains trample until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+210/293
+7
+rare
+Rampaging Kaiju
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Beast 
+6
+6
+Trample<br>///br///When Rampaging Kaiju enters the battlefield, choose one &#8212;<br>///br///<b>&#8226; </b>Rampaging Kaiju fights target creature you don&#8217;t control.<br>///br///<b>&#8226; </b>Destroy target artifact.<br>///br///<b>&#8226; </b>Rampaging Kaiju segregates 3.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+60/293
+6
+uncommon
+Gravity Harnesser
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Aetherborn Wizard 
+3
+3
+When Gravity Harnesser enters the battlefield, it segregates 3. <i>(Mill three cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i><br>///br///Each creature you control with a +1/+1 counter on it has flying.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+8/15
+0
+common
+Clue 1
+artifact
+
+Token Artifact — Clue 
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.
+
+Ali Rahman
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+2/15
+0
+common
+Soldier 2
+colorless
+
+Token Creature — Soldier 
+2
+2
+Vigilance
+
+Andree Wallin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+54/293
+3
+uncommon
+Eerie Crime Scene
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Whenever you mill one or more cards, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+<i>&#8220;A very niche way to kill someone. Makes the list of suspects that much smaller. Or perhaps it&#8217;s what the true culprit wants.&#8221;</i>
+Stephen Stark
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+51/293
+1
+uncommon
+Cephalopod Lurker
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Horror 
+1
+2
+Whenever Cephalopod Lurker deals combat damage to a player, it segregates 2. <i>(Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+197/293
+4
+common
+Kensai Warden
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Samurai 
+2
+4
+Whenever Kensai Warden blocks, if it has no +1/+1 counters on it, put a +1/+1 counter on it.<br>///br///Kensai Warden has vigilance as long as it has a +1/+1 counter on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+221/293
+2
+rare
+Toxitech Villainess
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Elf Scientist 
+2
+2
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Toxitech Villainess enters the battlefield, if it is popular, put a +1/+1 counter on target creature.<br>///br///Each creature you control with a +1/+1 counter on it has deathtouch.
+
+thyblake
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+203/293
+2
+common
+Material Loss
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Destroy target artifact.<br>///br///<b>&#8226; </b>Destroy target enchantment.<br>///br///Entwine&#8212;Sacrifice a Clue <i>(Choose both if you pay the entwine cost.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/293
+3
+rare
+Assemble a Party
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Popularity 2 <i>(You may tap two untapped Citizens you control when you cast this spell.)</i><br>///br///Search your library for up to two creature cards with a total mana value of 2, reveal those cards, put them into your hand, then shuffle.<br>///br///If Assemble a Party is popular, put those cards onto the battlefield under your control instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+186/293
+3
+common
+Byway Courier
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+3
+2
+When Byway Courier dies, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+196/293
+2
+common
+In-depth Artbook
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact
+
+
+When In-depth Artbook enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.<br>///br///You may tap In-depth Artbook as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+142/293
+2
+uncommon
+Cat and Mouse
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +1/+0 and gain haste until end of turn. If you control both creatures at the end of turn, create a Treasure token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+242/293
+6
+mythic rare
+L.A.B.A.C the God Brain
+multicolor
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Horror Wizard 
+6
+6
+Whenever a nonland permanent card is put in your graveyard from your library, each opponent loses 1 life.<br>///br///At the beginning of your upkeep, if you have twenty or more cards in your graveyard, choose one &#8212;<br>///br///<b>&#8226; </b>Destroy target nonland permanent.<br>///br///<b>&#8226; </b>Gain control of target artifact and lose 2 life.<br>///br///<b>&#8226; </b>Target creature segregates 5.
+
+Zesiul
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+100/293
+3
+uncommon
+Destructive Romance
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +2/+0 and gain menace until end of turn. If you control both creatures at the end of turn, target opponent discards a card.
+
+Benjamin Ee
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+184/293
+3
+uncommon
+Brains and Brawn
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +2/+2 and gain trample until end of turn. If you control both creatures at the end of turn, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+Tomasz Chistowski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+27/293
+3
+uncommon
+The Only One I Can Trust
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +2/+2 and gain vigilance until end of turn. If you control both creatures at the end of turn, you gain 4 life.
+<i>The Crossover forced enemies together, for the only thing they truly knew in this new world was each other.</i>
+SEGA
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+144/293
+1
+common
+Deceptive Strength
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has: &#8220;Whenever this creature attacks, if defending player controls a creature with power greater than it, this creature gains +3/+3 until end of turn.&#8221;
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+5/293
+1
+uncommon
+Chibi Blademaster
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Beast Samurai 
+1
+1
+<i>Underdog</i> &#8212; Whenever Chibi Blademaster attacks, if defending player controls a creature with power greater than this card&#8217;s, Chibi Blademaster gets +2/+1 until end of turn.
+
+Thomas Woolf
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+84/293
+2
+uncommon
+Twisted Reflection
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Target creature gets -6/-0 until end of turn.<br>///br///<b>&#8226; </b>Switch target creature&#8217;s power and toughness until end of turn.<br>///br///Entwine <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(Choose both if you pay the entwine cost.)</i>
+
+Sakimichan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+176/293
+3
+uncommon
+Tengu Assailant
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Demon Warrior 
+3
+2
+First strike<br>///br///<i>Underdog</i> &#8212; Whenever Tengu Assailant attacks, if defending player controls a creature with power greater than this card&#8217;s, Tengu Assailant gets +1/+0 and gains flying until end of turn.
+
+Genzoman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/293
+1
+uncommon
+Accept Difference
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Whenever a non-Citizen creature enters the battlefield under your control, untap all Citizens you control and you gain 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+206/293
+1
+common
+Nine-tailed Familiar
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fox 
+1
+1
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Sacrifice Nine-tailed Familiar: Target creature you control gains indestructible until end of turn.
+
+Azany
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+96/293
+5
+uncommon
+Containment Breach
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+This spell has flash as long as you have ten or more cards in your graveyard.<br>///br///Return target creature card from your graveyard to the battlefield.
+
+Xiao qiang overseas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+174/293
+2
+common
+Subjugating Blade
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+2
+2
+<i>Underdog</i> &#8212; Whenever Subjugating Blade attacks, if defending player controls a creature with power greater than this card&#8217;s, target creature can&#8217;t block this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+150/293
+3
+rare
+Gluttonous Brat
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Vampire 
+2
+3
+Haste<br>///br///<i>Underdog</i> &#8212; Whenever Gluttonous Brat attacks, if defending player controls a creature with power greater than this card&#8217;s, it deals 3 damage to target creature. If a creature is destroyed this way, put a +1/+1 counter on Gluttonous Brat.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+143/293
+3
+uncommon
+Consuming Rage
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Consuming Rage deals 1 damage to all creatures, then creatures you control gain +2/+0 until end of turn.
+
+Tomasz Chistowski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+92/293
+4
+rare
+Bloodbath Herald
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon 
+2
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Bloodbath Herald goes nekketsu, create a 5/5 black Demon creature token with flying and lose 4 life.
+
+Genzoman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+159/293
+2
+rare
+Mirror Assault
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Create a token that&#8217;s a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the next end step.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+288/293
+0
+uncommon
+Remote Minshuku
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice Remote Minshuku: Target creature gains hexproof until end of turn.
+
+Atelier Sent&#244;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+237/293
+4
+uncommon
+Heart of the Forge
+blue, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Artificer 
+3
+4
+<span class="symbol"><img src='magic-mana-small-UR.png' alt='U/R' width='16' height='16'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create a Treasure token, then target creature gains +1/+1 for each token artifact you control until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+41/293
+5
+rare
+Task Force Goliath
+white, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+4
+5
+Popularity 2 <i>(You may tap two untapped Citizens you control when you cast this spell.)</i><br>///br///When Task Force Goliath enters the battlefield, if it is popular, put a +1/+1 counter on it and destroy target tapped creature.<br>///br///Each creature you control with a +1/+1 counter on it has vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+162/293
+3
+common
+Pain Shaper
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Shaman 
+3
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Pain Shaper goes nekketsu, you may discard a card. If you do, draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+14/293
+3
+uncommon
+Gift of Light
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has vigilance and lifelink.<br>///br///Whenever you gain life, put a +1/+1 counter on enchanted creature.
+
+Faldio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/5
+2
+special
+Call to Serve
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant nonblack creature<br>///br///Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.
+
+Rii2a77ru
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+149/293
+1
+uncommon
+Final Flame
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice a creature.<br>///br///Final Flame deals damage equal to the sacrificed creature&#8217;s power to target creature.<br>///br///If the sacrificed creature has gone nekketsu this turn, Final Flame also deals that much damage to the target&#8217;s controller.
+
+John Silva
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+173/293
+5
+common
+Striped Plunderer
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Cat Pirate 
+4
+3
+Haste<br>///br///Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Striped Plunderer goes nekketsu, create a Treasure token.
+
+Rainbow Foxy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+33/293
+3
+uncommon
+Purge All Evil!
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Target creature gets +2/+0 and gains first strike until end of turn.<br>///br///If Purge All Evil! is popular, exile all creature cards from target player&#8217;s graveyard.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+158/293
+3
+uncommon
+Miniature Heister
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+2
+2
+Haste<br>///br///<i>Underdog</i> &#8212; Whenever Miniature Heister attacks, if defending player controls a creature with power greater than this card&#8217;s, create a Treasure token. 
+
+Sinobilante
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+95/293
+5
+uncommon
+Conduit of Everblood
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Dragon Horror 
+4
+3
+When Conduit of Everblood enters the battlefield, put a +1/+1 counter on it if you have ten or more cards in your graveyard.<br>///br///Each creature you control with a +1/+1 counter on it has menace.
+
+Themefinland
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+58/293
+4
+common
+Gate-bound Yokai
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Spirit 
+4
+4
+Defender<br>///br///Gate-bound Yokai gains flying and can attack as though it didn&#8217;t have defender as long as you have ten or more cards in your graveyard.
+
+Sinsin08051
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+106/293
+2
+common
+Fashionable Reaper
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit 
+2
+2
+Fashionable Reaper gets +2/+2 as long as you have ten or more cards in your graveyard.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+103/293
+2
+common
+Edgy Spin-off
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact
+
+
+When Edgy Spin-off enters the battlefield, target creature you control segregates 2. <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i><br>///br///You may tap Edgy Spin-off as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+69/293
+2
+common
+Origin Story
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact
+
+
+When Origin Story enters the battlefield, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i><br>///br///You may tap In-depth Artbook as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+136/293
+2
+common
+Action-packed Issue
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact
+
+
+When Action-packed Issue enters the battlefield, target creature gets +1/+0 and gains haste until end of turn.<br>///br///You may tap Action-packed Issue as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+4/293
+2
+common
+Best-selling Chapter
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact
+
+
+When Best-selling Chapter enters the battlefield, create a 1/1 white Human Citizen creature token.<br>///br///You may tap Best-selling Chapter as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+50/293
+2
+uncommon
+Census Program
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Non-Citizen creatures enter the battlefield tapped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+98/293
+4
+uncommon
+Crusading Revenant
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit Warrior 
+4
+3
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Crusading Revenant dies, if it is popular, return it from your graveyard to the battlefield tapped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+13/293
+1
+common
+Fanservice Knockoff
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat 
+1
+2
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Fanservice Knockoff enters the battlefield, if it is popular, gain 4 life.
+<i>&#8220;Who did this? Let me go, I just wanna talk!&#8221;<br>///br///&#8212;Argo Valae</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+209/293
+1
+common
+Prey Upon
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Target creature you control fights target creature you don&#8217;t control. <i>(Each deals damage equal to its power to the other.)</i>
+
+Carles Dalmau
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+175/293
+2
+uncommon
+Sudden Shock
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Split second <i>(As long as this spell is on the stack, players can&#8217;t cast spells or activate abilities that aren&#8217;t mana abilities.)</i><br>///br///Sudden Shock deals 2 damage to any target.
+
+xNadechi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+131/293
+2
+common
+Target Weakness
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice a Clue or pay <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>.<br>///br///Target creature gains -4/-4 until end of turn.
+<i>&#8220;I may lack strength, but I always come prepared!&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+230/293
+3
+uncommon
+Blood-Soaked Ronin
+black, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Samurai 
+3
+2
+Menace<br>///br///Whenever you sacrifice a creature, Blood-Soaked Ronin deals 1 damage to target player. If the sacrificed creature has gone nekketsu this turn, Blood-Soaked Ronin deals 2 damage to any target instead.
+
+Nolan Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+163/293
+3
+rare
+Proactive Salaryman
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Citizen 
+3
+2
+<i>Underdog</i> &#8212; Whenever Proactive Salaryman attacks, if defending player controls a creature with power greater than this card&#8217;s, transform it.
+<i>&#8220;Why do I look so strong and healthy? Simple: I exercise a lot!&#8221;</i>
+Yuda Ukitake
+Kamen Flash, Old School Hero
+red
+
+Legendary Creature — Human Warrior 
+4
+4
+Trample, first strike
+<i>&#8220;When do I find the time? Sorry but that one&#8217;s a secret.&#8221;</i>
+
+===========
+normal
+219/293
+1
+common
+Spiritual Help
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Mill four cards. Return target enchantment or land from your graveyard to your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+190/293
+2
+common
+Daughter of the Woods
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Druid 
+1
+2
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>. If Daughter of the Woods is popular, add one mana of any color instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+181/293
+4
+uncommon
+Alien Warmaster
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Dragon Warrior 
+4
+3
+When Alien Warmaster deals combat damage to a player, put a +1/+1 counter on target creature.<br>///br///Each creature you control with a +1/+1 counter on it has trample.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+19/293
+2
+rare
+Idolized
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has &#8220;Whenever this creature attacks alone, it gets +X/+X until end of turn, where X is the number of nonland permanents you control.&#8221;
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+113/293
+3
+uncommon
+Infernal Assistant
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon 
+1
+2
+Flying<br>///br///Infernal Assistant gains +2/+1 if you have ten or more cards in your graveyard.<br>///br///Whenever Infernal Assistant attacks, you draw a card and you lose 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+269/293
+2
+mythic rare
+DongCorp Quantum Device
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Legendary Artifact
+
+
+Whenever a non-Citizen creature enters the battlefield under your control, put a progress counter on DongCorp Quantum Device, then scry 1.<br>///br///At the beginning of your upkeep, if there are 30 or more progress counters on DongCorp Quantum Device, you win the game.
+
+BlueRogueVyse
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+17/293
+1
+common
+Hapless Protagonist
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Citizen 
+1
+1
+Popularity 3 <i>(You may tap three untapped Citizens you control when you cast this spell.)</i><br>///br///When Hapless Protagonist enters the battlefield, if it is popular, put four +1/+1 counters on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+39/293
+2
+common
+Soldier Without Cause
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+2
+2
+
+<i>Disconnected from their world and its stakes, Fictionals found themselves lacking a reason to fight.</i>
+Einlee
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+64/293
+2
+common
+Melancholic Mermaid
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Siren 
+2
+1
+Islandwalk <i>(This creature can&#8217;t be blocked as long as defending player controls an Island.)</i>
+<i>Appalled by the state of the world&#8217;s waters, many aquatic Fictionals refuse to live in the ocean.</i>
+Fullrings
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+99/293
+2
+common
+Deformed Outcast
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+1
+3
+
+<i>Fictionals with scary, uncanny appearances knew persecution all too well. What troubled them most was the lack of places to hide.</i>
+Ubermonster
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+146/293
+2
+common
+Devastated Prodigy
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human 
+2
+1
+Haste
+<i>Without a team to support and a title to claim, some Fictionals realized just how hollow their existences were.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+200/293
+2
+common
+Lost Ranger
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Scout 
+1
+1
+When Lost Ranger enters the battlefield, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+<i>Many Fictionals embrace an ascetic lifestyle in the wild, cutting themselves from reality in an attempt to cope.            </i>
+Astri Lohne
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+253/293
+4
+rare
+Something to Fight For
+white, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Saga 
+
+
+<br>///br///I &#8212; Whenever you attack with three or more creatures this turn, you draw a card.<br>///br///II &#8212; Target creature you control gain double strike until end of turn. Sacrifice it at the beginning of the next end step.<br>///br///III &#8212; At the end of the first combat phase this turn, untap all creatures you control. After this phase, there is an additional combat phase.
+
+Mr Potato
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+252/293
+2
+rare
+Self-Discovery
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Saga 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+246/293
+2
+rare
+More Than a Monster
+black, green, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Saga 
+
+
+<br>///br///I &#8212; Target creature you control segregates 3.<br>///br///II &#8212; Return target creature from your graveyard to your hand.<br>///br///III &#8212; Target creature you control fights target creature you don&#8217;t control. If both creatures die this way, put three +1/+1 counters on target creature you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+255/293
+2
+rare
+To Trust Again
+white, black, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Saga 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+245/293
+2
+rare
+Master Thyself
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Saga 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+72/293
+3
+common
+Promising Private Eye
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Detective 
+2
+3
+Whenever Promising Private Eye deals combat damage to a player, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+Larvanae
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+145/293
+2
+common
+Demand Answers
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice an artifact or discard a card.<br>///br///Draw two cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+153/293
+2
+uncommon
+Innocent Arsonist
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Wizard 
+2
+1
+<i>Underdog</i> &#8212; Whenever Innocent Arsonist attacks, if defending player controls a creature with power greater than this card&#8217;s, it deals 1 damage to any target.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+275/293
+3
+common
+Mana Geode
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+When Mana Geode enters the battlefield, scry 1.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+63/293
+3
+common
+Hit the Library
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Draw 2 cards. Then if Hit the Library is popular, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+61/293
+6
+common
+Guardian of the Depths
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Siren Warrior 
+5
+5
+When Guardian of the Depths enters the battlefield, it segregates 2. <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i>
+<i>&#8220;These waters have a protector now. You ransacked them for the last time!&#8221;            </i>
+Comicamanager
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+227/293
+3
+common
+Wild Shape
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantmen — Aura
+
+
+Enchant creature you control<br>///br///Enchanted creature loses all abilities and becomes a green Beast with base power and toughness 4/4.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+65/293
+4
+common
+Mind Cage
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell. Target creature you control segregates 2. <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+24/293
+3
+common
+Luminous Bonds
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature can&#8217;t attack or block.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+273/293
+6
+common
+Iron Savage
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Artifact Creature — Construct 
+5
+5
+Trample<br>///br///Iron Savage can&#8217;t be blocked by Citizens.
+<i>&#8220;We&#8217;ve lost contact with our first responders. Somebody smoke that trash heap!&#8221;<br>///br///&#8212;Heinrich Wilbretch</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+55/293
+5
+common
+Featherward Agent
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Harpy Detective 
+3
+3
+Flying<br>///br///Featherward Agent has hexproof as long as you control a Clue.
+
+Kafabest
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+9/15
+0
+common
+Clue 2
+artifact
+
+Token Artifact — Clue 
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+10/15
+0
+common
+Clue 3
+artifact
+
+Token Artifact — Clue 
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+12/293
+3
+common
+Enlisted Harpy
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Harpy Soldier 
+2
+2
+Flying<br>///br///<i>Underdog</i> &#8212; Whenever Enlisted Harpy attacks, if defending player controls a creature with power greater than this card&#8217;s, Enlisted Harpy gains vigilance until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+18/293
+6
+common
+Heavenly Herald
+white
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel 
+4
+4
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Flying, vigilance<br>///br///When Heavenly Herald enters the battlefield, if it is popular, put a +1/+1 counter on target creature.
+
+Wada Sachiko
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+177/293
+2
+common
+Thunderbolt
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Thunderbolt deals 3 damage to target player or planeswalker.<br>///br///<b>&#8226; </b>Thunderbolt deals 4 damage to target creature with flying.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+11/293
+4
+common
+Eldritch Royalty
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Vampire Noble 
+1
+1
+When Eldritch Royalty enters the battlefield, create a 2/2 colorless Soldier creature token with vigilance.
+
+Porforever
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+236/293
+2
+uncommon
+Fiery Overachiever
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+2
+2
+<i>Underdog</i> &#8212; Whenever Fiery Overachiever attacks, if defending player controls a creature with power greater than this card&#8217;s, Fiery Overachiever deals damage equal to the number of attacking creatures to target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+62/293
+1
+common
+Hikikomori
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Citizen 
+1
+1
+Hikikomori enters the battlefield tapped.<br>///br///When Hikikomori enters the battlefield, another target creature you control segregates 2. <i>(Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+8/293
+3
+common
+Dashing Heir
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+3
+2
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Dashing Heir has first strike as long as it is popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+105/293
+2
+common
+Fall Apart
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Choose a number. Target opponent sacrifices a creature with a toughness equal to the chosen number.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+124/293
+1
+common
+Restless Shade
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Shadow 
+1
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Restless Shade goes nekketsu, each opponent loses 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+93/293
+6
+common
+Boneweaver Witch
+black
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Warlock 
+5
+5
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Boneweaver Witch goes nekketsu, return a creature with a power of 3 or less from your graveyard to the battlefield.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+126/293
+3
+common
+Song of Madness
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, sacrifice a creature.<br>///br///Target opponent discards two cards and loses 3 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+276/293
+5
+rare
+Mechanical Heart
+artifact
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Artifact Creature — Construct 
+5
+5
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When Mechanical Heart enters the battlefield, if it is popular, put a destiny counter on another target creature you control.<br>///br///Creatures with a destiny counter on them have indestructible and hexproof.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+10/293
+2
+common
+Disenchant
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy target artifact or enchantment.
+
+Darth Drago
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+44/293
+2
+common
+Virtuous Takedown
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Destroy target creature with power 4 or greater.<br>///br///If Virtuous Takedown is popular, destroy target creature instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+74/293
+4
+common
+Retreat From Society
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///When Retreat From Society enters the battlefield, tap enchanted creature. It is no longer popular.<br>///br///Enchanted creature doesn&#8217;t untap during its controller&#8217;s untap step.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+73/293
+4
+common
+Reimagined Icarus
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Artificer 
+3
+3
+Whenever another artifact enters the battlefield under your control, Reimagined Icarus gains flying until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+229/293
+3
+uncommon
+Arrest Campaign
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+When Arrest Campaign enters the battlefield, create a 1/1 white Human Citizen creature token.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice a creature: Draw a card. If the sacrificed creature was popular, each opponent loses 3 life.
+
+Alexander Mokhov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+116/293
+3
+common
+Murderous Intent
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +3/+3 and has &#8220;Sacrifice another creature: Return Murderous Intent to its owner&#8217;s hand.&#8221;
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+129/293
+3
+common
+Spiteful Sell-Sword
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Beast Soldier 
+3
+2
+<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, pay 2 life: Spiteful Sell-Sword gains protection from Humans until end of turn.
+<i>&#8220;You want to pay me to kill some of that hairless filth? Ha. I could do it for free.&#8221;</i>
+Rudy Siswanto
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+244/293
+5
+mythic rare
+Marielle, Mother of Dolls
+multicolor
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Warlock 
+3
+3
+Whenever you cast an instant or sorcery spell, create a tapped colorless Construct artifact creature token with power and toughness each equal to the number of token artifacts you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+248/293
+5
+mythic rare
+Rachel, Mad Crusader
+multicolor
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Angel 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+207/293
+3
+rare
+Obsessed Geneticist
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Citizen Scientist 
+1
+4
+<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>: Put a progress counter on Obsessed Geneticist. Then if there are 10 or more progress counters on Obsessed Geneticist, transform it.
+
+
+The Lethal Mermaid
+green
+
+Legendary Creature — Fish Horror 
+5
+5
+Trample, ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span><br>///br///When this creature transforms into The Lethal Mermaid, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on The Lethal Mermaid.
+
+
+===========
+normal
+233/293
+3
+mythic rare
+Commander WUR
+multicolor
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Pirate 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+254/293
+3
+mythic rare
+Sthescea, Usurper CEO
+multicolor
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Gorgon Advisor 
+
+
+
+
+Shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+239/293
+4
+mythic rare
+Iro Zen, the First Fictional
+multicolor
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Citizen 
+4
+4
+Whenever you draw your second card each turn, create a create a 2/2 green Fox creature token and a Treasure token.
+<i>&#8220;You may call me Mr. Zen. I lived many lives. I am a witness of sorts.&#8221;</i>
+Sergey Zabelin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+21/293
+4
+mythic rare
+Larry Johnman, Screen King
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Citizen 
+3
+3
+Whenever a non-Citizen creature enters the battlefield under your control, it becomes popular.<br>///br///Popular creatures you control get +1/+1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+232/293
+3
+mythic rare
+Commander WUB
+multicolor
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+234/293
+5
+mythic rare
+Everblood Incarnate
+multicolor
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Wurm Avatar 
+5
+5
+Menace, trample<br>///br///Other creatures you control gain nekketsu and have &#8220;When this creature goes nekketsu, put two +1/+1 counters on Everblood Incarnate.&#8221;
+
+Jorge Benedito
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+222/293
+2
+uncommon
+UG01
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Citizen 
+1
+3
+Whenever UG01 enters the battlefield or becomes tapped to make a spell popular, untap another target creature or land.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+165/293
+5
+common
+Rapacious Dragon
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+3
+3
+Flying<br>///br///When Rapacious Dragon enters the battlefield, create two Treasure tokens.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+277/293
+2
+common
+Prized Statue
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+When Prized Statue enters the battlefield or is put into a graveyard from the battlefield, create a Treasure token.
+<i>&#8220;It&#8217;s worth HOW MUCH?!&#8221;<br>///br///&#8212; Argo Valae</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+189/293
+5
+common
+Cooperative Monstrosity
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Horror 
+5
+4
+When Cooperative Monstrosity enters the battlefield, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+<i>&#8220;Hey big guy! See anything we can&#8217;t?&#8221;<br>///br///&#8220;Unusual organic residue detected. The target is injured and close.&#8221;</i>
+Richard Sashigane
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+156/293
+2
+common
+Malice in the Machine
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, sacrifice an artifact or pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.<br>///br///Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+102/293
+1
+common
+Disfigure
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Target creature gets -2/-2 until end of turn.
+
+Ren Escar
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+128/293
+2
+common
+Soul Extraction
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice a creature.<br>///br///Draw 2 cards. If the sacrificed creature has gone nekketsu this turn, target opponent loses 2 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+137/293
+4
+uncommon
+Archeotech Enthusiast
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artificer 
+3
+3
+Whenever an artifact enters the battlefield under your control for the first time each turn, put a +1/+1 counter on target creature.<br>///br///Each creature you control with a +1/+1 counter on it has haste.
+
+Sam Yang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+101/293
+2
+uncommon
+Devout Drone
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Citizen 
+2
+1
+Nekketsu <i>(Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)</i><br>///br///When Devout Drone goes nekketsu, put a +1/+1 counter on another target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+192/293
+2
+rare
+Dutiful Gatekeeper
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Monk 
+4
+4
+Defender<br>///br///Whenever an opponent casts a spell during your turn, you may have Dutiful Gatekeeper fight target creature you don&#8217;t control. <i>(Each deals damage equal to its power to the other.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+188/293
+1
+common
+Confront the Unknown
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+Herckeim
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+202/293
+1
+common
+Massive Might
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Target creature gets +2/+2 and gains trample until end of turn.
+
+Lruss6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+193/293
+3
+common
+Everblood Tendrils
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Flash<br>///br///Enchanted creature gets +1/+3 and gains reach.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+125/293
+5
+common
+Sewer Troll
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Troll 
+3
+4
+When Sewer Troll enters the battlefield, it segregates 2. <i>(Mill two cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i><br>///br///When Sewer Troll dies, return target creature from your graveyard to your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+182/293
+6
+common
+Almighty Predator
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Crocodile 
+5
+6
+Trample, vigilance
+
+Gaetan Weltzer
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+22/293
+2
+rare
+Light-Hearted Aftermath
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Each player returns all creatures that died this turn from their graveyard to the battlefield.
+<i>&#8220;Good thing this conveniently placed mattress broke my fall! Anyway, can I have bandages with my jelly-filled donuts please?&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+191/293
+3
+common
+Discover a Sanctuary
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+EKM
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+157/293
+4
+common
+Mall Ransacker
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Beast 
+3
+3
+Haste<br>///br///Sacrifice an artifact: Mall Ransacker gains first strike until end of turn.
+
+Alexandre Mokhov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+166/293
+1
+common
+Reckless Attack
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Reckless Attack deals 2 damage to any target. If a creature you control has gone nekketsu this turn, Reckless Attack deals 3 damage instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+293/293
+0
+basic land
+Forest
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Ivany86
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+289/293
+0
+basic land
+Plains
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Ariduka55
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+290/293
+0
+basic land
+Island
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Ariduka55
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+291/293
+0
+basic land
+Swamp
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Justine Thibault
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+292/293
+0
+basic land
+Mountain
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Austin Smith
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+185/293
+7
+common
+Building-Sized Parasite
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Insect 
+6
+6
+Building-Sized Parasite costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each creature you control with a +1/+1 counter on it.
+<i>It is attracted to power like a moth to a flame, be it electricity or strong auras.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+274/293
+1
+uncommon
+Makeshift Friend
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact Creature — Construct 
+1
+1
+Makeshift Friend enters the battlefield tapped.<br>///br///When Makeshift Friend enters the battlefield, choose one &#8212;<br>///br///<b>&#8226; </b>Scry 3.<br>///br///<b>&#8226; </b>Put a +1/+1 counter on Makeshift Friend.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+270/293
+4
+common
+Dramatist’s Puppet
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct 
+2
+4
+When Dramatist&#8217;s Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+272/293
+1
+common
+Iconic Cosplay
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +1/+1 and is popular.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+<i>&#8220;With this on, everyone will know who I am!&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+23/293
+2
+uncommon
+Little Helper
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Citizen 
+1
+2
+When Little Helper enters the battlefield becomes tapped to make a spell popular, return target artifact or enchantment card from your graveyard to your hand.
+
+David Revoy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+283/293
+2
+uncommon
+Transformation Trinket
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+Whenever a Citizen you control becomes tapped to make a spell popular, you may attach Transforming Trinket to it.<br>///br///Equipped creature gets +2/+2 and has first strike.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+11/15
+0
+common
+Construct
+artifact
+
+Token Artifact Creature — Construct 
+*
+*
+
+
+Dantecyberman
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+281/293
+2
+common
+Seamless Simulacrum
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact Creature — Citizen 
+2
+1
+
+<i>&#8220;When you bring down the barrier between truth and imitation, life and stillness, that&#8217;s when you know you&#8217;ve crafted something truly beautiful.&#8221;<br>///br///&#8212;Marielle, dollmaker witch</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+240/293
+5
+uncommon
+King Fly
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Insect Horror 
+4
+4
+Flying<br>///br///Whenever you mill one or more cards, you may pay 2 life. If you do, put a creature card from among the cards milled this way into your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+257/293
+4
+uncommon
+UZ06
+black, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Demon Plant 
+4
+3
+Whenever UZ06 is put in the graveyard from your library, you may sacrifice two lands. If you do, put it onto the battlefield tapped under your control.<br>///br///You may play lands from your graveyard.
+
+Victor Maristane
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+243/293
+3
+uncommon
+Lawless Informant
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Cat Pirate 
+1
+3
+Whenever you sacrifice an artifact, put a +1/+1 counter on target creature.<br>///br///Lawless Informant can&#8217;t be blocked as long as it has a +1/+1 counter on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+42/293
+5
+uncommon
+UW06
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Fox Samurai 
+3
+4
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Double strike<br>///br///UW06 has +1/+0 and vigilance as long as it is popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+86/293
+2
+uncommon
+UU02
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Soldier 
+2
+2
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///When UU02 enters the battlefield, if it is popular, create a 1/1 colorless Thopter artifact creature token with flying.
+
+Dmitry Belozerov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+87/293
+3
+uncommon
+UU03
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Soldier 
+2
+3
+Whenever an artifact enters the battlefield under your control, you may tap target permanent.
+
+blandstufftastesnice
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+53/293
+3
+uncommon
+Detective’s Familiar
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Owl 
+2
+2
+Flying<br>///br///Whenever Detective&#8217;s Familiar enters the battlefield or dies, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+88/293
+4
+uncommon
+UU05
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Zombie Wizard 
+3
+3
+<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: UU05 segregates 2. <i>(Mill two cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i><br>///br///Whenever you draw your second card each turn, untap UU05.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+89/293
+5
+uncommon
+UU06
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Advisor 
+4
+4
+Whenever you cast an instant or sorcery spell, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i><br>///br///Sacrifice three Clues: UU06 can&#8217;t be blocked this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+90/293
+2
+uncommon
+UU08
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Popularity X <i>(You may tap X untapped Citizens you control when you cast this spell.)</i><br>///br///Draw X+1 cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+132/293
+1
+uncommon
+Toothy Bairn
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Beast 
+1
+1
+Popularity 2 <i>(You may tap two untapped Citizens you control when you cast this spell.)</i><br>///br///When Toothy Bairn enters the battlefield, if it is popular, put three -1/-1 counters on target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+109/293
+4
+uncommon
+Heartstring Killer
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Assassin 
+2
+4
+Lifelink<br>///br///Whenever you mill one or more cards, each opponent loses 1 life. You gain life equal to the life lost this way.
+
+Nolan Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+117/293
+2
+uncommon
+Nefarious Assistance
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Target creature gets +1/+1 and gains deathtouch until end of turn. If you have ten or more cards in your graveyard, it segregates 2. <i>(Mill two cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+140/293
+8
+uncommon
+Campy Hero
+red
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+5
+5
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each creature with base power 2 or less you control.<br>///br///Haste
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+223/293
+5
+uncommon
+UG05
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Spider Horror 
+3
+5
+Reach<br>///br///Whenever a creature with base power 4 or greater enters the battlefield under you control, UG05 may segregate 1. <i>(Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+224/293
+6
+uncommon
+UG06
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Beast Druid 
+5
+5
+When another creature you control with power 4 or greater dies, you gain 2 life.<br>///br///When another creature you control with a +1/+1 counter on it dies, you gain 2 life.
+
+Oksana kerro
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+225/293
+4
+uncommon
+UG07
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Druid 
+2
+5
+Whenever a nontoken creature you control dies, investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i><br>///br///Whenever you sacrifice an artifact, gain 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+201/293
+7
+uncommon
+Lured By Kitsune
+green
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+This spell has flash as long as you control a creature with power 4 or greater.<br>///br///Create three 2/2 green Fox creature token.
+
+Sarah Graybill
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+226/293
+2
+uncommon
+UG09
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Popularity 1 <i>(You may tap one untapped Citizen you control when you cast this spell.)</i><br>///br///Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.<br>///br///If UG09 is popular, add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+183/293
+2
+uncommon
+Anime Convention
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant land<br>///br///Enchanted land has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any one color.&#8221;<br>///br///You may tap enchanted land as if it was a Citizen creature to make a spell popular.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+282/293
+4
+uncommon
+Support Fire Strider
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct 
+4
+4
+Vigilance<br>///br///Support Fire Strider can&#8217;t attack or block alone.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+284/293
+7
+uncommon
+UA03
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Artifact Creature — Construct 
+6
+4
+Haste<br>///br///<i>Underdog</i> &#8212; Whenever UA03 attacks, if defending player controls a creature with power greater than this card&#8217;s, exile target permanent.
+
+Atey Ghailan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+285/293
+1
+uncommon
+UA04
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, Sacrifice UA04: Choose one &#8212;<br>///br///<b>&#8226; </b>Exile target non-Citizen creature you control, then return it to the battlefield under your control.<br>///br///<b>&#8226; </b>Return target creature to its owner&#8217;s hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+271/293
+3
+uncommon
+Grafted Wargear
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +3/+2.<br>///br///Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-0.png' alt='0' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+28/293
+2
+common
+Pegasus Vanguard
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+1
+1
+Flying<br>///br///<i>Underdog</i> &#8212; Whenever Pegasus Vanguard attacks, if defending player controls a creature with power greater than this card&#8217;s, target creature gains flying until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+16/293
+5
+rare
+Hand of Rachel
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel 
+3
+3
+Flying<br>///br///<i>Underdog</i> &#8212; Whenever Hand of Rachel attacks, if defending player controls a creature with power greater than this card&#8217;s, destroy all other creatures with power 4 or greater.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+104/293
+6
+rare
+Everblood Chosen
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon 
+6
+6
+Flying, trample<br>///br///Sacrifice a creature: Another target creature gains indestructible until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+141/293
+6
+rare
+Castle Museum Overlord
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+5
+5
+Flying, haste<br>///br///Whenever Castle Museum Overlord attacks, you may sacrifice an artifact. If you do, Castle Museum Overlord deals 1 damage to all creatures defending player controls.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+211/293
+1
+rare
+RG Iconic Hydra
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Hydra 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+25/293
+2
+uncommon
+Making Friends
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Create a 1/1 white Human Citizen creature token.<br>///br///<b>&#8226; </b>Put a +1/+1 counter on each of up to two target creatures.<br>///br///Entwine <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> <i>(Choose both if you pay the entwine cost.)</i>
+
+Richard Sashigane
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+6/293
+2
+common
+Clear Cut
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Clear Cut deals 4 damage to target attacking or blocking creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+286/293
+0
+common
+Evolving Wilds
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Charles Dalmau
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+256/293
+3
+uncommon
+UZ01
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Citizen 
+2
+2
+Vigilance<br>///br///Other Citizens you control get +1/+1 and gain vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+139/293
+4
+uncommon
+Bolt Bend
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> less to cast if you control a creature with power 4 or greater.<br>///br///Change the target of target spell or ability with a single target.
+
+Anna Steinbauer
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+43/293
+4
+uncommon
+UW08
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature
+2
+2
+UW08 enters the battlefield with two +1/+1 counters on it for each other popular creature you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+37/293
+1
+rare
+RW10
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+35/293
+1
+rare
+RW05
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+36/293
+1
+rare
+RW06
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+76/293
+1
+rare
+RU04
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+75/293
+1
+rare
+RU03
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+77/293
+1
+rare
+RU05
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+68/293
+1
+mythic rare
+MU02
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+80/293
+1
+rare
+RU09
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+81/293
+1
+rare
+RU10
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+79/293
+1
+rare
+RU08
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+78/293
+1
+rare
+RU07
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+Nolan Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+118/293
+1
+rare
+RB04
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon Citizen 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+120/293
+1
+rare
+RB08
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+119/293
+1
+rare
+RB05
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+121/293
+1
+rare
+RB09
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+122/293
+1
+rare
+RB10
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+231/293
+3
+mythic rare
+Commander WRG
+multicolor
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Citizen 
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+167/293
+1
+rare
+RR04
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature
+
+
+Each creature you control with a +1/+1 counter on it has first strike.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+172/293
+5
+rare
+Spirit Bomb
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Popularity X <i>(You may tap X untapped Citizens you control when you cast this spell.)</i><br>///br///Spirit Bomb deals 8 damage divided evenly, rounded down, among X targets.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+168/293
+1
+rare
+RR05
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+169/293
+1
+rare
+RR08
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+Nolan Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+161/293
+1
+mythic rare
+MR02
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+170/293
+1
+rare
+RR09
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+171/293
+1
+rare
+RR10
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+279/293
+0
+rare
+RA03
+artifact
+
+Artifact
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+280/293
+0
+rare
+RA04
+artifact
+
+Artifact
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+278/293
+0
+rare
+RA02
+artifact
+
+Artifact
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+215/293
+1
+rare
+RG08
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+214/293
+1
+rare
+RG07
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+212/293
+1
+rare
+RG05
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+213/293
+1
+rare
+RG06
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+216/293
+1
+rare
+RG09
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+217/293
+1
+rare
+RG10
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+204/293
+1
+mythic rare
+MG02
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+250/293
+2
+rare
+RZ09
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+249/293
+2
+rare
+RZ07
+red, green, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+5/5
+3
+special
+Courage in Crisis
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Put a +1/+1 counter on target creature, then proliferate. <i>(Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</i>
+
+Clark Huggins
+
+colorless
+
+
+
+
+
+
+
+===========
