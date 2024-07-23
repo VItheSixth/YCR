@@ -72,7 +72,7 @@ If the target is a Citizen, put a +1/+1 counter on it.</text>
  <type>Creature - Fox </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Kitsune Protegee enters the battlefield, if it is popular, create a 2/2 green Fox creature token.</text>
 </card>
 <card>
@@ -96,7 +96,7 @@ When Kitsune Protegee enters the battlefield, if it is popular, create a 2/2 gre
  <pt>3/5</pt>
  <tablerow>2</tablerow>
  <text>Flying, double strike
-Tap X untapped creatures you control: Amio Sua, Seeker of Strength deals X damage to target creature.
+Tap X untapped creatures you control: Amio Sua, Seeker of Strength deals X damage to any target.
 When Amio Sua, Seeker of Strength dies, return it to the battlefield transformed under your control.
 ---
 (Back): The World Mourns</text>
@@ -143,7 +143,7 @@ Creatures can’t attack.
  <type>Creature - Human Cleric </type>
  <pt>1/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Compassionate Medium enters the battlefield, if it is popular, exile a creature card from a graveyard. You gain life equal to its mana value.</text>
 </card>
 <card>
@@ -155,7 +155,7 @@ When Compassionate Medium enters the battlefield, if it is popular, exile a crea
  <type>Creature - Human Wizard </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Elixir Charmer enters the battlefield, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If Elixir Charmer is popular, sacrifice it at the end of turn.</text>
 </card>
 <card>
@@ -201,7 +201,7 @@ T: Add G.</text>
  <type>Creature - Vampire Warrior </type>
  <pt>4/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 As long as Ageless Duelist is popular, it has protection from the color of your choice.</text>
 </card>
 <card>
@@ -225,7 +225,7 @@ Fridge Fairy enters the battlefield tapped unless you control a Clue.</text>
  <type>Creature - Fox Advisor </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Kitsune Emissary enters the battlefield, target creature gets +2/+2 until end of turn. If Kitsune Emissary is popular, put two +1/+1 counters on target creature instead.</text>
 </card>
 <card>
@@ -272,7 +272,7 @@ As long as enchanted creature is a Citizen, it counts as two Citizens when it be
  <type>Creature - Elf Warrior </type>
  <pt>2/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Reach
 When Rooftop Sentinel enters the battlefield, if it is popular, put a +1/+1 counter on it.</text>
 </card>
@@ -357,7 +357,7 @@ When Rooftop Sentinel enters the battlefield, if it is popular, put a +1/+1 coun
  <tablerow>2</tablerow>
  <text>Nekketsu (Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)
 When Crazy in Love goes nekketsu, it deals X damage to target creature, where X is its power.
-T, pay 2 life: Put a +1/+1 counter on Crazy in Love.</text>
+T, Pay 2 life: Put a +1/+1 counter on Crazy in Love.</text>
 </card>
 <card>
  <name>Scarlet Mist</name>
@@ -380,7 +380,7 @@ Citizens get -1/-0.</text>
  <type>Creature - Illusion Performer </type>
  <pt>2/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Digital Idol enters the battlefield, create a 1/1 white Human Citizen creature token. If it is popular, create two of those tokens instead.</text>
 </card>
 <card>
@@ -438,7 +438,7 @@ Entwine 2 (Choose both if you pay the entwine cost.)</text>
  <type>Creature - Human Soldier </type>
  <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Juvenile Skirmisher has haste as long as it is popular.</text>
 </card>
 <card>
@@ -476,7 +476,7 @@ Juvenile Skirmisher has haste as long as it is popular.</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Hexproof
-Whenever Argo, Alley Cat deals combat damage to a player, put a +1/+1 counter on target creature and investigate.
+Whenever Argo, Alley Cat deals combat damage to a player, put a +1/+1 counter on target creature and investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
 ---
 (Front): Argo, Street Snitch</text>
 </card>
@@ -490,7 +490,7 @@ Whenever Argo, Alley Cat deals combat damage to a player, put a +1/+1 counter on
  <type>Legendary Creature - Horror </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>B: Sophie, Bloody Blondie gets +1/+1 until the end of turn. If its power is 12 or greater, transform Sophie, Bloody Blondie.
+ <text>B: Sophie, Bloody Blondie gets +1/+1 until end of turn. If its power is 12 or greater, transform Sophie, Bloody Blondie.
 ---
 (Back): Sophie, Out of Control</text>
 </card>
@@ -571,7 +571,7 @@ Missile Barrage deals 4 damage divided as you choose among any number of targets
  <type>Creature - God Cleric </type>
  <pt>0/5</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Defender
 As long as Useless Goddess is popular, blue noncreature spells you cast cost 1 less to cast and other blue creatures you control gain +1/+1.</text>
 </card>
@@ -646,7 +646,7 @@ Whenever you make a spell popular, put a +1/+1 counter on Plume, Wannabe Heroine
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Flying, vigilance, haste
-Underdog — Whenever Plume, Taking a Stand attacks, if defending player controls a creature with power greater than this card’s, other creatures you control get +1/+1 until end of turn.
+Underdog — Whenever Plume, Taking a Stand attacks, if defending player controls a creature with power greater than this card’s, other creatures you control get +1/+1 and gain vigilance until end of turn.
 
 ---
 (Front): Plume, Wannabe Heroine</text>
@@ -672,10 +672,10 @@ Underdog — Whenever Plume, Taking a Stand attacks, if defending player control
  <manacost>3WB</manacost>
  <cmc>3</cmc>
  <type>Legendary Creature - Soldier </type>
- <pt>4/4</pt>
+ <pt>5/5</pt>
  <tablerow>2</tablerow>
  <text>When Heinrich, Zealous Captain enters the battlefield, choose a number.
-Creatures you control gain protection against spells with mana value equal to the chosen number.
+Creatures you control gain protection against creatures and spells with mana value equal to the chosen number.
 ---
 (Front): Heinrich, Pragmatic Leader</text>
 </card>
@@ -688,7 +688,7 @@ Creatures you control gain protection against spells with mana value equal to th
  <type>Creature - Human Pirate </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Handsome Freebooter enters the battlefield, if it is popular, create a Treasure token.</text>
 </card>
 <card>
@@ -710,10 +710,10 @@ When Handsome Freebooter enters the battlefield, if it is popular, create a Trea
  <manacost>G</manacost>
  <cmc>1</cmc>
  <type>Legendary Creature - Human Druid </type>
- <pt>1/2</pt>
+ <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell.)
-When Imari, Blossoming Soul enters the battlefield, if it is popular, put a +1/+1 counter on up to X target creatures.
+ <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell to make it popular.)
+When Imari, Blossoming Soul enters the battlefield, if it is popular, put a +1/+1 counter on up to X+1 target creatures.
 ---
 (Back): Imari, Heart of Rot</text>
 </card>
@@ -930,12 +930,11 @@ Create a token that’s a copy of target creature.</text>
  <name>Restrained by the Task Force</name>
  <set rarity="uncommon">YCR</set>
  <color>W</color>
- <manacost>2WW</manacost>
- <cmc>4</cmc>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>When Restrained by the Task Force enters the battlefield, exile target creature or planeswalker an opponent controls until Restrained by the Task Force leaves the battlefield.
-When Restrained by the Task Force enters the battlefield, create a 2/2 colorless Soldier creature token with vigilance.</text>
+ <text>When Restrained by the Task Force enters the battlefield, exile target creature or planeswalker an opponent controls until Restrained by the Task Force leaves the battlefield. Then create a 2/2 colorless Soldier creature token with vigilance.</text>
 </card>
 <card>
  <name>Heinrich's Maneuver</name>
@@ -1047,7 +1046,7 @@ When Unrelenting Gunsel goes nekketsu, target opponent discards a card and loses
  <type>Creature - Kraken </type>
  <pt>7/7</pt>
  <tablerow>2</tablerow>
- <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell.)
+ <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell to make it popular.)
 When Gargantuan Mermaid enters the battlefield, return target creature to its owner’s hand. If it is popular, return all other creatures to their owners’ hands.</text>
 </card>
 <card>
@@ -1190,7 +1189,7 @@ Kensai Warden has vigilance as long as it has a +1/+1 counter on it.</text>
  <type>Artifact Creature - Elf Scientist </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Toxitech Villainess enters the battlefield, if it is popular, put a +1/+1 counter on target creature.
 Each creature you control with a +1/+1 counter on it has deathtouch.</text>
 </card>
@@ -1215,7 +1214,7 @@ Entwine—Sacrifice a Clue (Choose both if you pay the entwine cost.)</text>
  <cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell.)
+ <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell to make it popular.)
 Search your library for up to two creature cards with a total mana value of 2, reveal those cards, put them into your hand, then shuffle.
 If Assemble a Party is popular, put those cards onto the battlefield under your control instead.</text>
 </card>
@@ -1418,7 +1417,7 @@ Underdog — Whenever Gluttonous Brat attacks, if defending player controls a cr
  <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>Nekketsu (Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)
-When Bloodbath Herald goes nekketsu, create a 5/5 black Demon creature token with flying and lose 4 life.</text>
+When Bloodbath Herald goes nekketsu, create a 5/5 black Demon creature token with flying and you lose 4 life.</text>
 </card>
 <card>
  <name>Mirror Assault</name>
@@ -1459,9 +1458,9 @@ When Bloodbath Herald goes nekketsu, create a 5/5 black Demon creature token wit
  <manacost>4W</manacost>
  <cmc>5</cmc>
  <type>Artifact Creature - Construct </type>
- <pt>4/5</pt>
+ <pt>5/5</pt>
  <tablerow>2</tablerow>
- <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell.)
+ <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell to make it popular.)
 When Task Force Goliath enters the battlefield, if it is popular, put a +1/+1 counter on it and destroy target tapped creature.
 Each creature you control with a +1/+1 counter on it has vigilance.</text>
 </card>
@@ -1522,7 +1521,7 @@ When Striped Plunderer goes nekketsu, create a Treasure token.</text>
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Target creature gets +2/+0 and gains first strike until end of turn.
 If Purge All Evil! is popular, exile all creature cards from target player’s graveyard.</text>
 </card>
@@ -1636,7 +1635,7 @@ You may tap Best-selling Chapter as if it was a Citizen creature to make a spell
  <type>Creature - Spirit Warrior </type>
  <pt>4/3</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 When Crusading Revenant dies, if it is popular, return it from your graveyard to the battlefield tapped.</text>
 </card>
 <card>
@@ -1648,8 +1647,8 @@ When Crusading Revenant dies, if it is popular, return it from your graveyard to
  <type>Creature - Cat </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
-When Fanservice Knockoff enters the battlefield, if it is popular, gain 4 life.</text>
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
+When Fanservice Knockoff enters the battlefield, if it is popular, you gain 4 life.</text>
 </card>
 <card>
  <name>Prey Upon</name>
@@ -1741,7 +1740,7 @@ Whenever you sacrifice a creature, Blood-Soaked Ronin deals 1 damage to target p
  <type>Creature - Elf Druid </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 T: Add G. If Daughter of the Woods is popular, add one mana of any color instead.</text>
 </card>
 <card>
@@ -1800,7 +1799,7 @@ At the beginning of your upkeep, if there are 30 or more progress counters on Do
  <type>Creature - Human Citizen </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Popularity 3 (You may tap three untapped Citizens you control when you cast this spell.)
+ <text>Popularity 3 (You may tap three untapped Citizens you control when you cast this spell to make it popular.)
 When Hapless Protagonist enters the battlefield, if it is popular, put four +1/+1 counters on it.</text>
 </card>
 <card>
@@ -1867,8 +1866,8 @@ When Hapless Protagonist enters the battlefield, if it is popular, put four +1/+
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
  <text>
-I — Whenever you attack with three or more creatures this turn, you draw a card.
-II — Target creature you control gain double strike until end of turn. Sacrifice it at the beginning of the next end step.
+I — Whenever you attack with three or more creatures this turn, draw a card.
+II — Target creature you control gains double strike until end of turn. Sacrifice it at the beginning of the next end step.
 III — At the end of the first combat phase this turn, untap all creatures you control. After this phase, there is an additional combat phase.</text>
 </card>
 <card>
@@ -1879,7 +1878,10 @@ III — At the end of the first combat phase this turn, untap all creatures you 
  <cmc>2</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>
+I — Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+II — When you draw you second card this turn, add GU.
+III — Target creature gets +3/+3 until end of turn and can’t be blocked this turn.</text>
 </card>
 <card>
  <name>More Than a Monster</name>
@@ -1891,28 +1893,34 @@ III — At the end of the first combat phase this turn, untap all creatures you 
  <tablerow>1</tablerow>
  <text>
 I — Target creature you control segregates 3.
-II — Return target creature from your graveyard to your hand.
+II — Return target creature from your graveyard to your hand. You gain 2 life.
 III — Target creature you control fights target creature you don’t control. If both creatures die this way, put three +1/+1 counters on target creature you control.</text>
 </card>
 <card>
- <name>To Trust Again</name>
+ <name>To Feel Again</name>
  <set rarity="rare">YCR</set>
  <color>WB</color>
  <manacost>WB</manacost>
  <cmc>2</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>
+I — You gain 3 life. Create a 1/1 white Human Citizen creature token
+II — Target opponent loses 3 life and you gain 3 life.
+III — Target creature you control gains first strike, deathtouch and lifelink until end of turn.</text>
 </card>
 <card>
  <name>Master Thyself</name>
  <set rarity="rare">YCR</set>
  <color>UR</color>
- <manacost>UR</manacost>
- <cmc>2</cmc>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>
+I — Target creature gets +1/+0 and gains haste until end of turn.
+II — Tap target creature you control. Put three +1/+1 counters on it. It gains hexproof until your next turn.
+III — Target creature gains double strike until end of turn. Draw 2 cards.</text>
 </card>
 <card>
  <name>Promising Private Eye</name>
@@ -1966,7 +1974,7 @@ T: Add one mana of any color.</text>
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Draw 2 cards. Then if Hit the Library is popular, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
 </card>
 <card>
@@ -2002,7 +2010,7 @@ Enchanted creature loses all abilities and becomes a green Beast with base power
  <text>Counter target spell. Target creature you control segregates 2. (Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</text>
 </card>
 <card>
- <name>Luminous Bonds</name>
+ <name>Inquisition's Duress</name>
  <set rarity="common">YCR</set>
  <color>W</color>
  <manacost>2W</manacost>
@@ -2010,7 +2018,8 @@ Enchanted creature loses all abilities and becomes a green Beast with base power
  <type>Enchantment - Aura </type>
  <tablerow>1</tablerow>
  <text>Enchant creature
-Enchanted creature can’t attack or block.</text>
+Enchanted creature can’t attack or block.
+When enchanted creature becomes tapped, exile it.</text>
 </card>
 <card>
  <name>Iron Savage</name>
@@ -2057,7 +2066,7 @@ Underdog — Whenever Enlisted Harpy attacks, if defending player controls a cre
  <type>Creature - Angel </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Flying, vigilance
 When Heavenly Herald enters the battlefield, if it is popular, put a +1/+1 counter on target creature.</text>
 </card>
@@ -2077,7 +2086,7 @@ When Heavenly Herald enters the battlefield, if it is popular, put a +1/+1 count
  <name>Eldritch Royalty</name>
  <set rarity="common">YCR</set>
  <color>W</color>
- <manacost>2WW</manacost>
+ <manacost>3W</manacost>
  <cmc>4</cmc>
  <type>Creature - Vampire Noble </type>
  <pt>1/1</pt>
@@ -2116,7 +2125,7 @@ When Hikikomori enters the battlefield, another target creature you control segr
  <type>Creature - Human Knight </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Dashing Heir has first strike as long as it is popular.</text>
 </card>
 <card>
@@ -2127,7 +2136,7 @@ Dashing Heir has first strike as long as it is popular.</text>
  <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Choose a number. Target opponent sacrifices a creature with a toughness equal to the chosen number.</text>
+ <text>Choose a number up to four. Target opponent sacrifices a creature with a toughness equal to the chosen number.</text>
 </card>
 <card>
  <name>Restless Shade</name>
@@ -2165,7 +2174,7 @@ When Boneweaver Witch goes nekketsu, return a creature with a power of 3 or less
 Target opponent discards two cards and loses 3 life.</text>
 </card>
 <card>
- <name>Mechanical Heart</name>
+ <name>Mechanical Soulmate</name>
  <set rarity="rare">YCR</set>
  <color></color>
  <manacost>5</manacost>
@@ -2173,9 +2182,9 @@ Target opponent discards two cards and loses 3 life.</text>
  <type>Artifact Creature - Construct </type>
  <pt>5/5</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
-When Mechanical Heart enters the battlefield, if it is popular, put a destiny counter on another target creature you control.
-Creatures with a destiny counter on them have indestructible and hexproof.</text>
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
+When Mechanical Soulmate enters the battlefield, if it is popular, put a destiny counter on another target creature you control.
+Creatures you control with a destiny counter on them have indestructible and hexproof.</text>
 </card>
 <card>
  <name>Disenchant</name>
@@ -2195,7 +2204,7 @@ Creatures with a destiny counter on them have indestructible and hexproof.</text
  <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Destroy target creature with power 4 or greater.
 If Virtuous Takedown is popular, destroy target creature instead.</text>
 </card>
@@ -2253,7 +2262,7 @@ Enchanted creature gets +3/+3 and has “Sacrifice another creature: Return Murd
  <type>Creature - Beast Soldier </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>B, pay 2 life: Spiteful Sell-Sword gains protection from Humans until end of turn.</text>
+ <text>B, Pay 2 life: Spiteful Sell-Sword gains protection from Humans until end of turn.</text>
 </card>
 <card>
  <name>Marielle, Mother of Dolls</name>
@@ -2301,7 +2310,7 @@ Enchanted creature gets +3/+3 and has “Sacrifice another creature: Return Murd
  <pt>5/5</pt>
  <tablerow>2</tablerow>
  <text>Trample, ward 2
-When this creature transforms into The Lethal Mermaid, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on The Lethal Mermaid.
+When this creature transforms into The Lethal Mermaid, you may remove any number of +1/+1 counters from creatures you control. If you do, put twice that many +1/+1 counters on The Lethal Mermaid.
 ---
 (Front): Obsessed Geneticist</text>
 </card>
@@ -2311,7 +2320,7 @@ When this creature transforms into The Lethal Mermaid, you may remove any number
  <color>WUR</color>
  <manacost>URW</manacost>
  <cmc>3</cmc>
- <type>Legendary Creature - Pirate </type>
+ <type>Legendary Creature</type>
  <pt></pt>
  <tablerow>2</tablerow>
  <text></text>
@@ -2342,8 +2351,8 @@ When this creature transforms into The Lethal Mermaid, you may remove any number
  <name>Larry Johnman, Screen King</name>
  <set rarity="mythic">YCR</set>
  <color>W</color>
- <manacost>3W</manacost>
- <cmc>4</cmc>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
  <type>Legendary Creature - Human Citizen </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
@@ -2374,7 +2383,7 @@ Popular creatures you control get +1/+1.</text>
 Other creatures you control gain nekketsu and have “When this creature goes nekketsu, put two +1/+1 counters on Everblood Incarnate.”</text>
 </card>
 <card>
- <name>UG01</name>
+ <name>Assimilated Elf</name>
  <set rarity="uncommon">YCR</set>
  <color>G</color>
  <manacost>1G</manacost>
@@ -2382,7 +2391,7 @@ Other creatures you control gain nekketsu and have “When this creature goes ne
  <type>Creature - Elf Citizen </type>
  <pt>1/3</pt>
  <tablerow>2</tablerow>
- <text>Whenever UG01 enters the battlefield or becomes tapped to make a spell popular, untap another target creature or land.</text>
+ <text>Whenever Assimilated Elf enters the battlefield or becomes tapped to make a spell popular, untap another target creature or land.</text>
 </card>
 <card>
  <name>Rapacious Dragon</name>
@@ -2633,7 +2642,7 @@ Sacrifice an artifact: Mall Ransacker gains first strike until end of turn.</tex
  <text></text>
 </card>
 <card>
- <name>Building-Sized Parasite</name>
+ <name>Titan-Sized Parasite</name>
  <set rarity="common">YCR</set>
  <color>G</color>
  <manacost>5GG</manacost>
@@ -2672,12 +2681,12 @@ When Makeshift Friend enters the battlefield, choose one —
  <name>Iconic Cosplay</name>
  <set rarity="common">YCR</set>
  <color></color>
- <manacost>1</manacost>
- <cmc>1</cmc>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
  <text>Equipped creature gets +1/+1 and is popular.
-Equip 2</text>
+Equip 1</text>
 </card>
 <card>
  <name>Little Helper</name>
@@ -2726,7 +2735,7 @@ Equip 3</text>
 Whenever you mill one or more cards, you may pay 2 life. If you do, put a creature card from among the cards milled this way into your hand.</text>
 </card>
 <card>
- <name>UZ06</name>
+ <name>Pact-Bound Groundskeeper</name>
  <set rarity="uncommon">YCR</set>
  <color>BG</color>
  <manacost>2BG</manacost>
@@ -2734,7 +2743,7 @@ Whenever you mill one or more cards, you may pay 2 life. If you do, put a creatu
  <type>Creature - Demon Plant </type>
  <pt>4/3</pt>
  <tablerow>2</tablerow>
- <text>Whenever UZ06 is put in the graveyard from your library, you may sacrifice two lands. If you do, put it onto the battlefield tapped under your control.
+ <text>Whenever Pact-Bound Groundskeeper is put in the graveyard from your library, you may sacrifice two lands. If you do, put it onto the battlefield tapped under your control.
 You may play lands from your graveyard.</text>
 </card>
 <card>
@@ -2750,7 +2759,7 @@ You may play lands from your graveyard.</text>
 Lawless Informant can’t be blocked as long as it has a +1/+1 counter on it.</text>
 </card>
 <card>
- <name>UW06</name>
+ <name>Kitsune Swiftblade</name>
  <set rarity="uncommon">YCR</set>
  <color>W</color>
  <manacost>4W</manacost>
@@ -2758,12 +2767,12 @@ Lawless Informant can’t be blocked as long as it has a +1/+1 counter on it.</t
  <type>Creature - Fox Samurai </type>
  <pt>3/4</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Double strike
-UW06 has +1/+0 and vigilance as long as it is popular.</text>
+Kitsune Swiftblade has +1/+0 and vigilance as long as it is popular.</text>
 </card>
 <card>
- <name>UU02</name>
+ <name>High-Tech Recon</name>
  <set rarity="uncommon">YCR</set>
  <color>U</color>
  <manacost>1U</manacost>
@@ -2771,11 +2780,11 @@ UW06 has +1/+0 and vigilance as long as it is popular.</text>
  <type>Creature - Human Soldier </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
-When UU02 enters the battlefield, if it is popular, create a 1/1 colorless Thopter artifact creature token with flying.</text>
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
+When High-Tech Recon enters the battlefield, if it is popular, create a 1/1 colorless Thopter artifact creature token with flying.</text>
 </card>
 <card>
- <name>UU03</name>
+ <name>Aether-Powered Trooper</name>
  <set rarity="uncommon">YCR</set>
  <color>U</color>
  <manacost>2U</manacost>
@@ -2798,7 +2807,7 @@ When UU02 enters the battlefield, if it is popular, create a 1/1 colorless Thopt
 Whenever Detective’s Familiar enters the battlefield or dies, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
 </card>
 <card>
- <name>UU05</name>
+ <name>Followers of LABAC</name>
  <set rarity="uncommon">YCR</set>
  <color>U</color>
  <manacost>3U</manacost>
@@ -2806,11 +2815,11 @@ Whenever Detective’s Familiar enters the battlefield or dies, investigate. (Cr
  <type>Creature - Zombie Wizard </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>U, T: UU05 segregates 2. (Mill two cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)
-Whenever you draw your second card each turn, untap UU05.</text>
+ <text>U, T: Followers of L.A.B.A.C segregate 2. (Mill two cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)
+Whenever you draw your second card each turn, untap Followers of L.A.B.A.C.</text>
 </card>
 <card>
- <name>UU06</name>
+ <name>Underworld Broker</name>
  <set rarity="uncommon">YCR</set>
  <color>U</color>
  <manacost>3UU</manacost>
@@ -2819,7 +2828,7 @@ Whenever you draw your second card each turn, untap UU05.</text>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Whenever you cast an instant or sorcery spell, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
-Sacrifice three Clues: UU06 can’t be blocked this turn.</text>
+Sacrifice three Clues: Underworld Broker can’t be blocked this turn.</text>
 </card>
 <card>
  <name>UU08</name>
@@ -2829,7 +2838,7 @@ Sacrifice three Clues: UU06 can’t be blocked this turn.</text>
  <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell.)
+ <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell to make it popular.)
 Draw X+1 cards.</text>
 </card>
 <card>
@@ -2841,7 +2850,7 @@ Draw X+1 cards.</text>
  <type>Creature - Beast </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell.)
+ <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell to make it popular.)
 When Toothy Bairn enters the battlefield, if it is popular, put three -1/-1 counters on target creature.</text>
 </card>
 <card>
@@ -2875,11 +2884,11 @@ Whenever you mill one or more cards, each opponent loses 1 life. You gain life e
  <type>Creature - Human Warrior </type>
  <pt>5/5</pt>
  <tablerow>2</tablerow>
- <text>This spell costs 1 less to cast for each creature with base power 2 or less you control.
+ <text>This spell costs 1 less to cast for each creature with base power 1 or less you control.
 Haste</text>
 </card>
 <card>
- <name>UG05</name>
+ <name>Eyes of LABAC</name>
  <set rarity="uncommon">YCR</set>
  <color>G</color>
  <manacost>3GG</manacost>
@@ -2888,22 +2897,22 @@ Haste</text>
  <pt>3/5</pt>
  <tablerow>2</tablerow>
  <text>Reach
-Whenever a creature with base power 4 or greater enters the battlefield under you control, UG05 may segregate 1. (Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</text>
+Whenever a creature with power 4 or greater enters the battlefield under you control, Eyes of L.A.B.A.C may segregate 1. (Mill one card. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</text>
 </card>
 <card>
  <name>UG06</name>
  <set rarity="uncommon">YCR</set>
  <color>G</color>
- <manacost>4GG</manacost>
+ <manacost>5G</manacost>
  <cmc>6</cmc>
  <type>Creature - Beast Druid </type>
  <pt>5/5</pt>
  <tablerow>2</tablerow>
- <text>When another creature you control with power 4 or greater dies, you gain 2 life.
-When another creature you control with a +1/+1 counter on it dies, you gain 2 life.</text>
+ <text>Ward 1
+Whenever another creature you control with a +1/+1 counter on it dies, put a +1/+1 counter on target creature you control.</text>
 </card>
 <card>
- <name>UG07</name>
+ <name>Wise Hermit</name>
  <set rarity="uncommon">YCR</set>
  <color>G</color>
  <manacost>3G</manacost>
@@ -2912,7 +2921,7 @@ When another creature you control with a +1/+1 counter on it dies, you gain 2 li
  <pt>2/5</pt>
  <tablerow>2</tablerow>
  <text>Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
-Whenever you sacrifice an artifact, gain 1 life.</text>
+Whenever you sacrifice an artifact, you gain 2 life.</text>
 </card>
 <card>
  <name>Lured By Kitsune</name>
@@ -2926,16 +2935,16 @@ Whenever you sacrifice an artifact, gain 1 life.</text>
 Create three 2/2 green Fox creature token.</text>
 </card>
 <card>
- <name>UG09</name>
+ <name>Green Thumb</name>
  <set rarity="uncommon">YCR</set>
  <color>G</color>
  <manacost>1G</manacost>
  <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell.)
+ <text>Popularity 1 (You may tap one untapped Citizen you control when you cast this spell to make it popular.)
 Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
-If UG09 is popular, add GG.</text>
+If Green Thumb is popular, add GG.</text>
 </card>
 <card>
  <name>Anime Convention</name>
@@ -2968,7 +2977,7 @@ Support Fire Strider can’t attack or block alone.</text>
  <manacost>7</manacost>
  <cmc>7</cmc>
  <type>Artifact Creature - Construct </type>
- <pt>6/4</pt>
+ <pt>6/3</pt>
  <tablerow>2</tablerow>
  <text>Haste
 Underdog — Whenever UA03 attacks, if defending player controls a creature with power greater than this card’s, exile target permanent.</text>
@@ -3007,7 +3016,7 @@ Equip 0</text>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Flying
-Underdog — Whenever Pegasus Vanguard attacks, if defending player controls a creature with power greater than this card’s, target creature gains flying until end of turn.</text>
+Underdog — Whenever Pegasus Vanguard attacks, if defending player controls a creature with power greater than this card’s, target creature with power 2 or less gains flying until end of turn.</text>
 </card>
 <card>
  <name>Hand of Rachel</name>
@@ -3031,7 +3040,7 @@ Underdog — Whenever Hand of Rachel attacks, if defending player controls a cre
  <pt>6/6</pt>
  <tablerow>2</tablerow>
  <text>Flying, trample
-Sacrifice a creature: Another target creature gains indestructible until end of turn.</text>
+Sacrifice a creature: Target creature gets -1/-1 until end of turn. If the sacrificed creature has gone nekketsu this turn, draw a card.</text>
 </card>
 <card>
  <name>Castle Museum Overlord</name>
@@ -3046,15 +3055,16 @@ Sacrifice a creature: Another target creature gains indestructible until end of 
 Whenever Castle Museum Overlord attacks, you may sacrifice an artifact. If you do, Castle Museum Overlord deals 1 damage to all creatures defending player controls.</text>
 </card>
 <card>
- <name>RG Iconic Hydra</name>
- <set rarity="rare">YCR</set>
+ <name>Dagasi, Hydra Caller</name>
+ <set rarity="mythic">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Creature - Hydra </type>
- <pt></pt>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Human Hydra </type>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text></text>
+ <text>Vigilance
+Whenever Dagasi, Hydra Caller attacks, it segregates X, where X is its power. Then if your library has no cards in it, you win the game.</text>
 </card>
 <card>
  <name>Making Friends</name>
@@ -3113,178 +3123,194 @@ Other Citizens you control get +1/+1 and gain vigilance.</text>
 Change the target of target spell or ability with a single target.</text>
 </card>
 <card>
- <name>UW08</name>
+ <name>Hero Archetype</name>
  <set rarity="uncommon">YCR</set>
  <color>W</color>
  <manacost>2WW</manacost>
  <cmc>4</cmc>
- <type>Creature</type>
+ <type>Creature - Human Warrior </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>UW08 enters the battlefield with two +1/+1 counters on it for each other popular creature you control.</text>
+ <text>Hero Archetype enters the battlefield with two +1/+1 counters on it for each other popular creature you control.</text>
 </card>
 <card>
- <name>RW10</name>
+ <name>Pursuit of Fame</name>
  <set rarity="rare">YCR</set>
  <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Whenever you gain life for the first time each turn, create a 1/1 white Human Citizen creature token.
+Whenever a Citizen you control becomes tapped, put a +1/+1 counter on target creature you control.</text>
 </card>
 <card>
- <name>RW05</name>
+ <name>Relic Seizer</name>
  <set rarity="rare">YCR</set>
  <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Creature</type>
- <pt></pt>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text></text>
+ <text>First strike
+Underdog — Whenever Relic Seizer attacks, if defending player controls a creature with power greater than this card’s, exile target artifact or enchantment an opponent controls until Relic Seizer leaves the battlefield.</text>
 </card>
 <card>
- <name>RW06</name>
+ <name>Assume Command</name>
  <set rarity="rare">YCR</set>
  <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Creature</type>
- <pt></pt>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gains first strike and has “Whenever this creature attacks, create X 2/2 colorless Soldier creature token with vigilance, where X is the number of attacking creatures.”</text>
+</card>
+<card>
+ <name>Horrific Surgeon</name>
+ <set rarity="rare">YCR</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Zombie Scientist </type>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text></text>
+ <text>1: You may cast target creature card in your graveyard this turn. When you cast it this turn, Horrific Surgeon segregates 2. (Mill two cards. Put a +1/+1 counter on the target for every nonland permanent card milled this way.)</text>
 </card>
 <card>
- <name>RU04</name>
+ <name>Reclusive Archmage</name>
  <set rarity="rare">YCR</set>
  <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control have “T: This creature segregates X, where X is its cost.” (Mill X cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)
+Reclusive Archmage has hexproof as long as you have twenty or more cards in your graveyard.</text>
 </card>
 <card>
- <name>RU03</name>
+ <name>Identity Bestower</name>
  <set rarity="rare">YCR</set>
  <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may have Identity Bestower enter the battlefield as a copy of another creature you control, except it has Identity Bestower’s other abilities.
+T: Creatures you control gain all creature types until end of turn.</text>
 </card>
 <card>
- <name>RU05</name>
+ <name>Marielle's Research</name>
  <set rarity="rare">YCR</set>
  <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Investigate three times, then create a tapped colorless Construct artifact creature token with power and toughness each equal to the number of token artifacts you control. (To investigate, create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)</text>
 </card>
 <card>
- <name>MU02</name>
+ <name>Pursuit of Knowledge</name>
+ <set rarity="rare">YCR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you draw your second card each turn, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice a Clue, put two +1/+1 counters on target creature you control.</text>
+</card>
+<card>
+ <name>Cosmic Revelation</name>
+ <set rarity="rare">YCR</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw cards equal to the number of instant and sorcery cards in your graveyard.</text>
+</card>
+<card>
+ <name>Fracture the Continuum</name>
  <set rarity="mythic">YCR</set>
  <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Popularity 3 (You may tap three untapped Citizens you control when you cast this spell to make it popular.)
+Take an extra turn after this one. If Fracture the Continuum is not popular, at the beginning of that turn’s end step, you lose the game.</text>
 </card>
 <card>
- <name>RU09</name>
+ <name>Canvas of Reality</name>
  <set rarity="rare">YCR</set>
  <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>5UUU</manacost>
+ <cmc>8</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>This spell costs 1 less to cast for each legendary permanent you control.
+At the beginning of your end step, create a token that’s a copy of target artifact or creature you control. If it’s a creature, it enters the battlefield with an additional +1/+1 counter on it.</text>
 </card>
 <card>
- <name>RU10</name>
- <set rarity="rare">YCR</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU08</name>
- <set rarity="rare">YCR</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU07</name>
- <set rarity="rare">YCR</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB04</name>
+ <name>Law-Abiding Oni</name>
  <set rarity="rare">YCR</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
  <type>Creature - Demon Citizen </type>
- <pt></pt>
+ <pt>5/4</pt>
  <tablerow>2</tablerow>
- <text></text>
+ <text>Trample
+1, Pay 2 life: Untap another target Citizen creature you control.</text>
 </card>
 <card>
- <name>RB08</name>
+ <name>Graveyard Plower</name>
  <set rarity="rare">YCR</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>4BBB</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Zombie Wurm </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Graveyard Plower enters the battlefield, target opponent discards a card.
+When Graveyard Plower is put in a graveyard from anywhere, target opponent loses 7 life.</text>
 </card>
 <card>
- <name>RB05</name>
+ <name>Portal Accident</name>
  <set rarity="rare">YCR</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Target creature you control segregates 3. (Mill three cards. Put a +1/+1 counter on this card for every nonland permanent card milled this way.)</text>
 </card>
 <card>
- <name>RB09</name>
+ <name>Marielle's Grip</name>
  <set rarity="rare">YCR</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Remove all counters from target permanent.
+If you have ten or more cards in your graveyard, its controller loses life equal to the number of counters removed this way.</text>
 </card>
 <card>
- <name>RB10</name>
+ <name>Pursuit of Power</name>
  <set rarity="rare">YCR</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Whenever you sacrifice a creature for the first time each turn, each opponent loses 1 life and you gain 1 life.
+Whenever a creature is put in your graveyard from anywhere, you may pay 1 life. If you do, draw a card.</text>
 </card>
 <card>
  <name>Commander WRG</name>
@@ -3292,21 +3318,22 @@ Change the target of target spell or ability with a single target.</text>
  <color>WRG</color>
  <manacost>RGW</manacost>
  <cmc>3</cmc>
- <type>Legendary Creature - Human Citizen </type>
+ <type>Legendary Creature</type>
  <pt></pt>
  <tablerow>2</tablerow>
  <text></text>
 </card>
 <card>
- <name>RR04</name>
+ <name>Crimson Mantle Captain</name>
  <set rarity="rare">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Creature</type>
- <pt></pt>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Each creature you control with a +1/+1 counter on it has first strike.</text>
+ <text>Whenever Crimson Mantle Captain attacks, if it has no +1/+1 counters on it, put a +1/+1 counter on all attacking creatures.
+Each creature you control with a +1/+1 counter on it has first strike.</text>
 </card>
 <card>
  <name>Spirit Bomb</name>
@@ -3316,178 +3343,190 @@ Change the target of target spell or ability with a single target.</text>
  <cmc>5</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell.)
-Spirit Bomb deals 8 damage divided evenly, rounded down, among X targets.</text>
+ <text>Popularity X (You may tap X untapped Citizens you control when you cast this spell to make it popular.)
+Spirit Bomb deals 8 damage to X+1 target creatures or planeswalkers.</text>
 </card>
 <card>
  <name>RR05</name>
  <set rarity="rare">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Human Artificer </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever RR05 enters the battlefield or attacks, create a Treasure token.
+Treasures you control are Equipment in addition to their other types and have “Equipped creature gets +2/+0” and equip 2.</text>
 </card>
 <card>
- <name>RR08</name>
+ <name>Everblood Mirage</name>
  <set rarity="rare">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Enchant creature
+Enchanted creature gets +3/+0 and gains nekketsu. (Whenever this creature would be dealt damage, it gains indestructible until end of turn. Sacrifice it at the next end step.)
+Enchanted creature has “When this creature goes nekketsu, it deals 3 damage to any target. Then return it to its owner’s hand.”</text>
 </card>
 <card>
- <name>MR02</name>
+ <name>Nemerax, Furious Challenger</name>
  <set rarity="mythic">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Warrior </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Underdog — Whenever Nemerax, Furious Challenger attacks, if defending player controls a creature with power greater than this card’s, it deals damage equal to its attack to each creature that player controls.</text>
 </card>
 <card>
- <name>RR09</name>
+ <name>Pursuit of Wealth</name>
  <set rarity="rare">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Whenever you deal damage to an opponent for the first time each turn, create a Treasure token.
+Whenever you sacrifice an artifact, Pursuit of Wealth deals 2 damage to any target.</text>
 </card>
 <card>
- <name>RR10</name>
+ <name>Fateful Showdown</name>
  <set rarity="rare">YCR</set>
  <color>R</color>
- <manacost>R</manacost>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Fateful Showdown deals damage to any target equal to the number of cards in your hand. Discard all the cards in your hand, then draw that many cards.</text>
+</card>
+<card>
+ <name>Steel Overseer</name>
+ <set rarity="rare">YCR</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Put a +1/+1 counter on each artifact creature you control.</text>
+</card>
+<card>
+ <name>Avenging Edge</name>
+ <set rarity="rare">YCR</set>
+ <color></color>
+ <manacost>1</manacost>
  <cmc>1</cmc>
- <type></type>
+ <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Whenever a creature dies, put a +1/+1 counter on equipped creature. If equipped creature is multicolored, put two +1/+1 counters on it instead.
+Equip 1</text>
 </card>
 <card>
- <name>RA03</name>
+ <name>Gunmad, Unmatched Model</name>
  <set rarity="rare">YCR</set>
  <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>10</manacost>
+ <cmc>10</cmc>
+ <type>Legendary Artifact Creature - Construct </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Gunmad, Unmatched Model costs 1 less for each legendary permanent you control.
+Flying, vigilance, first strike, protection from artifacts (This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts.)</text>
 </card>
 <card>
- <name>RA04</name>
- <set rarity="rare">YCR</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA02</name>
- <set rarity="rare">YCR</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG08</name>
+ <name>Observation Drawing</name>
  <set rarity="rare">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>2G, Exile a creature card from your graveyard: You may search your library for a creature card and exile it. Put it into your hand if both exiled cards have flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample and vigilance. Then shuffle.</text>
 </card>
 <card>
- <name>RG07</name>
+ <name>Expert Out of Retirement</name>
  <set rarity="rare">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Detective </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever a creature enters the battlefield under your control, if its power is greater than Expert Out of Retirement’s power, put a +1/+1 counter on Expert Out of Retirement and investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
 </card>
 <card>
  <name>RG05</name>
  <set rarity="rare">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Insect Warrior </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Popularity 2 (You may tap two untapped Citizens you control when you cast this spell to make it popular.)
+Trample
+RG05 has base power and toughness of 8/8 as long as it is popular.</text>
 </card>
 <card>
- <name>RG06</name>
+ <name>Pursuit of Balance</name>
  <set rarity="rare">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text></text>
+ <text>Whenever you play your first creature spell each turn, untap up to two target lands you control.
+Whenever a land enters the battlefield under your control, untap target creature you control.</text>
 </card>
 <card>
- <name>RG09</name>
+ <name>Collective Unconscious</name>
  <set rarity="rare">YCR</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG10</name>
- <set rarity="rare">YCR</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MG02</name>
- <set rarity="mythic">YCR</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw a card for each creature you control.</text>
 </card>
 <card>
  <name>RZ09</name>
  <set rarity="rare">YCR</set>
  <color>WG</color>
- <manacost>GW</manacost>
- <cmc>2</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>3GW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Naga Noble </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever RZ09 enters the battlefield or attacks, put X +1/+1 counters on target creature, where X is the number of creatures you control with +1/+1 counters on them.</text>
 </card>
 <card>
  <name>RZ07</name>
  <set rarity="rare">YCR</set>
  <color>RG</color>
- <manacost>RG</manacost>
- <cmc>2</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
+ <manacost>1RGG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature</type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, ward 2
+Whenever RZ07 attacks, it deals X damage to all creatures defending player controls, where X is the number of creatures with power 4 or greater you control.</text>
+</card>
+<card>
+ <name>Television Studio</name>
+ <set rarity="uncommon">YCR</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T: Add one mana of any color. If this mana is spent to cast a creature spell, it becomes popular.</text>
 </card>
 
 <!-->Tokens</-->
